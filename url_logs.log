@@ -1,0 +1,1748 @@
+2024-11-24 01:38:44,263 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-11-24 01:38:44,263 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-24 01:38:44,276 - INFO -  * Restarting with stat
+2024-11-24 01:38:48,633 - WARNING -  * Debugger is active!
+2024-11-24 01:38:48,655 - INFO -  * Debugger PIN: 436-547-908
+2024-11-24 01:39:45,213 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-11-24 01:39:45,213 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-24 01:39:45,223 - INFO -  * Restarting with stat
+2024-11-24 01:39:49,403 - WARNING -  * Debugger is active!
+2024-11-24 01:39:49,423 - INFO -  * Debugger PIN: 436-547-908
+2024-11-24 01:41:16,966 - INFO - URL: https://www.google.com
+2024-11-24 01:41:16,966 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-24 01:41:16,996 - INFO - Prediction: Legitimate
+2024-11-24 01:41:16,996 - INFO - 127.0.0.1 - - [24/Nov/2024 01:41:16] "POST /predict HTTP/1.1" 200 -
+2024-11-24 01:45:55,698 - INFO -  * Detected change in 'C:\\Users\\mukth\\comp898_capstone_project\\Phishing-detector\\app1.py', reloading
+2024-11-24 01:45:55,961 - INFO -  * Restarting with stat
+2024-11-24 01:46:00,676 - WARNING -  * Debugger is active!
+2024-11-24 01:46:00,696 - INFO -  * Debugger PIN: 436-547-908
+2024-11-24 01:46:17,998 - INFO -  * Detected change in 'C:\\Users\\mukth\\comp898_capstone_project\\Phishing-detector\\app1.py', reloading
+2024-11-24 01:46:18,244 - INFO -  * Restarting with stat
+2024-11-24 01:46:22,650 - WARNING -  * Debugger is active!
+2024-11-24 01:46:22,671 - INFO -  * Debugger PIN: 436-547-908
+2024-11-24 01:48:07,341 - INFO -  * Detected change in 'C:\\Users\\mukth\\comp898_capstone_project\\Phishing-detector\\app1.py', reloading
+2024-11-24 01:48:07,606 - INFO -  * Restarting with stat
+2024-11-24 01:48:18,706 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-11-24 01:48:18,706 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-24 01:48:18,711 - INFO -  * Restarting with stat
+2024-11-24 01:48:22,871 - WARNING -  * Debugger is active!
+2024-11-24 01:48:22,901 - INFO -  * Debugger PIN: 436-547-908
+2024-11-24 01:48:41,046 - INFO - URL: https://www.google.com
+2024-11-24 01:48:41,046 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-24 01:48:41,046 - ERROR - Error processing URL: https://www.google.com - name 'x' is not defined
+2024-11-24 01:48:41,056 - INFO - 127.0.0.1 - - [24/Nov/2024 01:48:41] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-11-24 01:49:21,653 - INFO -  * Detected change in 'C:\\Users\\mukth\\comp898_capstone_project\\Phishing-detector\\app1.py', reloading
+2024-11-24 01:49:21,909 - INFO -  * Restarting with stat
+2024-11-24 01:49:26,321 - WARNING -  * Debugger is active!
+2024-11-24 01:49:26,341 - INFO -  * Debugger PIN: 436-547-908
+2024-11-24 01:49:58,086 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-11-24 01:49:58,087 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-24 01:49:58,087 - INFO -  * Restarting with stat
+2024-11-24 01:50:02,413 - WARNING -  * Debugger is active!
+2024-11-24 01:50:02,437 - INFO -  * Debugger PIN: 436-547-908
+2024-11-24 01:50:21,204 - INFO -  * Detected change in 'C:\\Users\\mukth\\comp898_capstone_project\\Phishing-detector\\app1.py', reloading
+2024-11-24 01:50:21,455 - INFO -  * Restarting with stat
+2024-11-24 01:50:25,893 - WARNING -  * Debugger is active!
+2024-11-24 01:50:25,913 - INFO -  * Debugger PIN: 436-547-908
+2024-11-24 01:50:53,005 - INFO - URL: https://www.google.com
+2024-11-24 01:50:53,005 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-24 01:50:53,015 - INFO - Prediction: Legitimate
+2024-11-24 01:50:53,015 - INFO - 127.0.0.1 - - [24/Nov/2024 01:50:53] "POST /predict HTTP/1.1" 200 -
+2024-11-24 01:51:16,837 - INFO -  * Detected change in 'C:\\Users\\mukth\\comp898_capstone_project\\Phishing-detector\\app1.py', reloading
+2024-11-24 01:51:17,111 - INFO -  * Restarting with stat
+2024-11-24 01:51:21,337 - WARNING -  * Debugger is active!
+2024-11-24 01:51:21,368 - INFO -  * Debugger PIN: 436-547-908
+2024-11-24 01:54:19,672 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-11-24 01:54:19,672 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-24 01:54:19,672 - INFO -  * Restarting with stat
+2024-11-24 01:54:23,848 - WARNING -  * Debugger is active!
+2024-11-24 01:54:23,868 - INFO -  * Debugger PIN: 436-547-908
+2024-11-28 09:05:45,056 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-11-28 09:05:45,057 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-28 09:05:45,062 - INFO -  * Restarting with stat
+2024-11-28 09:05:49,510 - WARNING -  * Debugger is active!
+2024-11-28 09:05:49,530 - INFO -  * Debugger PIN: 436-547-908
+2024-11-28 09:06:06,430 - INFO - 127.0.0.1 - - [28/Nov/2024 09:06:06] "OPTIONS /predict HTTP/1.1" 200 -
+2024-11-28 09:07:15,288 - INFO - 127.0.0.1 - - [28/Nov/2024 09:07:15] "OPTIONS /predict HTTP/1.1" 200 -
+2024-11-28 09:12:16,056 - INFO - 127.0.0.1 - - [28/Nov/2024 09:12:16] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-28 09:12:16,390 - INFO - 127.0.0.1 - - [28/Nov/2024 09:12:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-28 09:15:37,829 - INFO -  * Detected change in 'C:\\Users\\mukth\\comp898_capstone_project\\Phishing-detector\\app1.py', reloading
+2024-11-28 09:15:38,447 - INFO -  * Restarting with stat
+2024-11-28 09:18:14,560 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-11-28 09:18:14,561 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-28 09:18:14,566 - INFO -  * Restarting with stat
+2024-11-28 09:18:18,899 - WARNING -  * Debugger is active!
+2024-11-28 09:18:18,926 - INFO -  * Debugger PIN: 436-547-908
+2024-11-28 09:18:32,775 - INFO - 127.0.0.1 - - [28/Nov/2024 09:18:32] "OPTIONS /predict HTTP/1.1" 200 -
+2024-11-28 09:20:05,575 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-11-28 09:20:05,575 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-28 09:20:05,580 - INFO -  * Restarting with stat
+2024-11-28 09:20:10,072 - WARNING -  * Debugger is active!
+2024-11-28 09:20:10,091 - INFO -  * Debugger PIN: 436-547-908
+2024-11-28 09:25:06,305 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-11-28 09:25:06,305 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-28 09:25:06,310 - INFO -  * Restarting with stat
+2024-11-28 09:25:10,852 - WARNING -  * Debugger is active!
+2024-11-28 09:25:10,871 - INFO -  * Debugger PIN: 436-547-908
+2024-11-28 09:31:14,526 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-11-28 09:31:14,527 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-28 09:31:14,531 - INFO -  * Restarting with stat
+2024-11-28 09:31:19,101 - WARNING -  * Debugger is active!
+2024-11-28 09:31:19,120 - INFO -  * Debugger PIN: 436-547-908
+2024-11-28 09:31:37,609 - INFO - 127.0.0.1 - - [28/Nov/2024 09:31:37] "OPTIONS /predict HTTP/1.1" 200 -
+2024-11-28 09:32:47,812 - INFO - URL: https://www.google.com
+2024-11-28 09:32:47,812 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-28 09:32:47,846 - INFO - Prediction: Legitimate
+2024-11-28 09:32:47,851 - INFO - 127.0.0.1 - - [28/Nov/2024 09:32:47] "POST /predict HTTP/1.1" 200 -
+2024-11-28 09:37:40,916 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-11-28 09:37:40,917 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-28 09:37:40,921 - INFO -  * Restarting with stat
+2024-11-28 09:37:45,412 - WARNING -  * Debugger is active!
+2024-11-28 09:37:45,431 - INFO -  * Debugger PIN: 436-547-908
+2024-11-28 09:37:57,799 - INFO - URL: www.google.com
+2024-11-28 09:37:57,799 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-28 09:37:57,806 - INFO - Prediction: Phishing
+2024-11-28 09:37:57,807 - INFO - 127.0.0.1 - - [28/Nov/2024 09:37:57] "POST /predict HTTP/1.1" 200 -
+2024-11-28 09:38:14,839 - INFO - URL: https://www.google.com
+2024-11-28 09:38:14,840 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-28 09:38:14,843 - INFO - Prediction: Legitimate
+2024-11-28 09:38:14,848 - INFO - 127.0.0.1 - - [28/Nov/2024 09:38:14] "POST /predict HTTP/1.1" 200 -
+2024-11-28 09:59:38,013 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-11-28 09:59:38,013 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-28 09:59:38,019 - INFO -  * Restarting with stat
+2024-11-28 09:59:42,342 - WARNING -  * Debugger is active!
+2024-11-28 09:59:42,361 - INFO -  * Debugger PIN: 436-547-908
+2024-11-28 09:59:58,891 - ERROR - Error processing URL: https://www.google.com - name 'pd' is not defined
+2024-11-28 09:59:58,895 - INFO - 127.0.0.1 - - [28/Nov/2024 09:59:58] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-11-28 10:01:16,686 - INFO -  * Detected change in 'C:\\Users\\mukth\\comp898_capstone_project\\Phishing-detector\\app1.py', reloading
+2024-11-28 10:01:16,947 - INFO -  * Restarting with stat
+2024-11-28 10:01:30,509 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-11-28 10:01:30,510 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-28 10:01:30,515 - INFO -  * Restarting with stat
+2024-11-28 10:01:35,913 - WARNING -  * Debugger is active!
+2024-11-28 10:01:35,932 - INFO -  * Debugger PIN: 436-547-908
+2024-11-28 10:01:44,192 - INFO - URL: https://www.google.com
+2024-11-28 10:01:44,192 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-28 10:01:44,203 - INFO - Prediction: Legitimate
+2024-11-28 10:01:44,207 - INFO - 127.0.0.1 - - [28/Nov/2024 10:01:44] "POST /predict HTTP/1.1" 200 -
+2024-11-28 10:02:29,322 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-11-28 10:02:29,323 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-28 10:02:29,328 - INFO -  * Restarting with stat
+2024-11-28 10:02:35,022 - WARNING -  * Debugger is active!
+2024-11-28 10:02:35,050 - INFO -  * Debugger PIN: 436-547-908
+2024-11-28 10:02:47,359 - WARNING - Invalid URL format: www.google.com
+2024-11-28 10:02:47,360 - INFO - 127.0.0.1 - - [28/Nov/2024 10:02:47] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-28 10:03:00,337 - INFO - URL: http://www.google.com
+2024-11-28 10:03:00,338 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-28 10:03:00,344 - INFO - Prediction: Phishing
+2024-11-28 10:03:00,345 - INFO - 127.0.0.1 - - [28/Nov/2024 10:03:00] "POST /predict HTTP/1.1" 200 -
+2024-11-28 10:03:06,516 - INFO - URL: https://www.google.com
+2024-11-28 10:03:06,517 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-28 10:03:06,522 - INFO - Prediction: Legitimate
+2024-11-28 10:03:06,526 - INFO - 127.0.0.1 - - [28/Nov/2024 10:03:06] "POST /predict HTTP/1.1" 200 -
+2024-11-30 02:59:20,498 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-11-30 02:59:20,499 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-30 02:59:20,501 - INFO -  * Restarting with stat
+2024-11-30 02:59:25,792 - WARNING -  * Debugger is active!
+2024-11-30 02:59:25,816 - INFO -  * Debugger PIN: 436-547-908
+2024-11-30 03:00:47,002 - INFO -  * Detected change in 'C:\\Users\\mukth\\comp898_capstone_project\\Phishing-detector\\testing\\test_urls.py', reloading
+2024-11-30 03:00:47,432 - INFO -  * Restarting with stat
+2024-11-30 03:00:53,402 - WARNING -  * Debugger is active!
+2024-11-30 03:00:53,426 - INFO -  * Debugger PIN: 436-547-908
+2024-11-30 03:00:59,854 - INFO - URL: https://www.google.com
+2024-11-30 03:00:59,854 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:00:59,864 - INFO - Prediction: Legitimate
+2024-11-30 03:00:59,864 - INFO - 127.0.0.1 - - [30/Nov/2024 03:00:59] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:00,679 - INFO - URL: https://www.youtube.com
+2024-11-30 03:01:00,679 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 03:01:00,679 - INFO - Prediction: Legitimate
+2024-11-30 03:01:00,679 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:00] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:01,254 - INFO - URL: https://www.facebook.com
+2024-11-30 03:01:01,255 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:01,259 - INFO - Prediction: Legitimate
+2024-11-30 03:01:01,261 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:01] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:02,594 - INFO - URL: https://www.baidu.com
+2024-11-30 03:01:02,594 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:02,594 - INFO - Prediction: Legitimate
+2024-11-30 03:01:02,594 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:02] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:03,126 - INFO - URL: https://www.wikipedia.org
+2024-11-30 03:01:03,126 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:03,126 - INFO - Prediction: Legitimate
+2024-11-30 03:01:03,136 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:03] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:04,438 - INFO - URL: https://www.reddit.com
+2024-11-30 03:01:04,438 - INFO - Extracted Features: [1, 1, -1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:04,438 - INFO - Prediction: Legitimate
+2024-11-30 03:01:04,438 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:04] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:05,626 - INFO - URL: https://www.yahoo.com
+2024-11-30 03:01:05,626 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:05,636 - INFO - Prediction: Legitimate
+2024-11-30 03:01:05,636 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:05] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:06,169 - INFO - URL: https://www.google.co.in
+2024-11-30 03:01:06,169 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:06,169 - INFO - Prediction: Legitimate
+2024-11-30 03:01:06,169 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:06] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:06,897 - INFO - URL: https://www.qq.com
+2024-11-30 03:01:06,897 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 03:01:06,897 - INFO - Prediction: Legitimate
+2024-11-30 03:01:06,907 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:06] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:07,371 - INFO - URL: https://www.amazon.com
+2024-11-30 03:01:07,371 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:07,371 - INFO - Prediction: Legitimate
+2024-11-30 03:01:07,381 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:07] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:07,963 - INFO - URL: https://www.taobao.com
+2024-11-30 03:01:07,963 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:07,963 - INFO - Prediction: Legitimate
+2024-11-30 03:01:07,963 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:07] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:09,045 - INFO - URL: https://www.twitter.com
+2024-11-30 03:01:09,045 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 03:01:09,055 - INFO - Prediction: Legitimate
+2024-11-30 03:01:09,055 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:09] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:11,788 - INFO - URL: https://www.tmall.com
+2024-11-30 03:01:11,788 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:11,798 - INFO - Prediction: Legitimate
+2024-11-30 03:01:11,798 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:11] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:12,272 - INFO - URL: https://www.google.co.jp
+2024-11-30 03:01:12,272 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:12,280 - INFO - Prediction: Legitimate
+2024-11-30 03:01:12,280 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:12] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:14,424 - INFO - URL: https://www.vk.com
+2024-11-30 03:01:14,424 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-11-30 03:01:14,434 - INFO - Prediction: Legitimate
+2024-11-30 03:01:14,434 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:14] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:15,332 - INFO - URL: https://www.live.com
+2024-11-30 03:01:15,332 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-11-30 03:01:15,332 - INFO - Prediction: Legitimate
+2024-11-30 03:01:15,342 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:15] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:15,975 - INFO - URL: https://www.instagram.com
+2024-11-30 03:01:15,975 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 03:01:15,981 - INFO - Prediction: Legitimate
+2024-11-30 03:01:15,985 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:15] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:16,796 - INFO - URL: https://www.sohu.com
+2024-11-30 03:01:16,796 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 03:01:16,796 - INFO - Prediction: Legitimate
+2024-11-30 03:01:16,806 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:16] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:18,904 - INFO - URL: https://www.sina.com.cn
+2024-11-30 03:01:18,904 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:18,914 - INFO - Prediction: Legitimate
+2024-11-30 03:01:18,914 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:18] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:23,456 - INFO - URL: https://www.jd.com
+2024-11-30 03:01:23,456 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:23,456 - INFO - Prediction: Legitimate
+2024-11-30 03:01:23,466 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:23] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:26,252 - INFO - URL: https://www.weibo.com
+2024-11-30 03:01:26,252 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 03:01:26,262 - INFO - Prediction: Legitimate
+2024-11-30 03:01:26,262 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:26] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:26,635 - INFO - URL: https://irk68d.cn/
+2024-11-30 03:01:26,635 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:26,635 - INFO - Prediction: Legitimate
+2024-11-30 03:01:26,635 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:26] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:27,518 - INFO - URL: https://ipfs.io/ipfs/QmNarLZTQJz756oQb5W6zhEzBZT6FpHeZ71WgRyYjhUkDU
+2024-11-30 03:01:27,518 - INFO - Extracted Features: [1, 0, 1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-11-30 03:01:27,522 - INFO - Prediction: Phishing
+2024-11-30 03:01:27,525 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:27] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:28,181 - INFO - URL: https://myurls.bio/asfdgs
+2024-11-30 03:01:28,181 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:28,191 - INFO - Prediction: Legitimate
+2024-11-30 03:01:28,191 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:28] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:28,725 - INFO - URL: http://ajsuiekrlcof904837585jcmkbifot5869039imshe895jkfilgtkj2.pages.dev
+2024-11-30 03:01:28,725 - INFO - Extracted Features: [1, 0, 1, 1, 1, 1, 0, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:28,725 - INFO - Prediction: Phishing
+2024-11-30 03:01:28,735 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:28] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:29,598 - INFO - URL: https://shorturl.at/ahyEO
+2024-11-30 03:01:29,598 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:29,598 - INFO - Prediction: Legitimate
+2024-11-30 03:01:29,598 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:29] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:29,998 - INFO - URL: https://cloudflare-ipfs.com/ipfs/bafybeibbuz2fixzaurwkiwsvbjnzjybf6zfrlrc5n32teiq5g72bj7u4tm/intelresu_onedrive786i.html
+2024-11-30 03:01:29,998 - INFO - Extracted Features: [1, -1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:30,008 - INFO - Prediction: Phishing
+2024-11-30 03:01:30,008 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:30] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:30,489 - INFO - URL: https://bonheur_sources.godaddysites.com/
+2024-11-30 03:01:30,489 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:30,489 - INFO - Prediction: Legitimate
+2024-11-30 03:01:30,489 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:30] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:31,337 - INFO - URL: https://new.express.adobe.com/webpage/J5zchUBpIPlQK
+2024-11-30 03:01:31,337 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 03:01:31,337 - INFO - Prediction: Legitimate
+2024-11-30 03:01:31,347 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:31] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:31,915 - INFO - URL: https://bancosucursalvirtualpersonasbancol.brizy.site/
+2024-11-30 03:01:31,915 - INFO - Extracted Features: [1, 0, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 03:01:31,918 - INFO - Prediction: Legitimate
+2024-11-30 03:01:31,919 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:31] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:32,381 - INFO - URL: https://wwxhajudjgwjklckvzgs2.web.app/
+2024-11-30 03:01:32,381 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:32,381 - INFO - Prediction: Legitimate
+2024-11-30 03:01:32,391 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:32] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:32,887 - INFO - URL: https://pub-588c239b53b047f0947a19cc65e9adbf.r2.dev/index.html
+2024-11-30 03:01:32,887 - INFO - Extracted Features: [1, 0, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:32,887 - INFO - Prediction: Phishing
+2024-11-30 03:01:32,887 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:32] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:35,675 - INFO - URL: https://transactionallawgro-1318439371.cos.sa-saopaulo.myqcloud.com/transactionallawgroup.html
+2024-11-30 03:01:35,675 - INFO - Extracted Features: [1, -1, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 03:01:35,675 - INFO - Prediction: Phishing
+2024-11-30 03:01:35,688 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:35] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:36,150 - INFO - URL: https://pub-9001142b3706459da8c96364e873dce5.r2.dev/index.html
+2024-11-30 03:01:36,150 - INFO - Extracted Features: [1, 0, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:36,150 - INFO - Prediction: Phishing
+2024-11-30 03:01:36,150 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:36] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:36,744 - INFO - URL: https://is.gd/chf2Bo
+2024-11-30 03:01:36,744 - INFO - Extracted Features: [1, 1, -1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:36,748 - INFO - Prediction: Legitimate
+2024-11-30 03:01:36,749 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:36] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:37,902 - INFO - URL: https://att-107955.weeblysite.com/
+2024-11-30 03:01:37,902 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 03:01:37,912 - INFO - Prediction: Phishing
+2024-11-30 03:01:37,912 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:37] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:38,178 - INFO - URL: https://bafybeibca5w73zjjqgy24zv7j4bvzqrs6oadejrry2g73asfija22x5wna.ipfs.cf-ipfs.com/dkagaux3.html
+2024-11-30 03:01:38,178 - INFO - Extracted Features: [1, -1, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:38,188 - INFO - Prediction: Phishing
+2024-11-30 03:01:38,188 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:38] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:38,703 - INFO - URL: https://pub-26702d472a5f4e8c83b9ef3c579e59e9.r2.dev/808index.html
+2024-11-30 03:01:38,703 - INFO - Extracted Features: [1, 0, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:38,703 - INFO - Prediction: Phishing
+2024-11-30 03:01:38,703 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:38] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:39,011 - INFO - URL: http://urxeds.com
+2024-11-30 03:01:39,011 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 1, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:39,011 - INFO - Prediction: Phishing
+2024-11-30 03:01:39,011 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:39] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:39,948 - INFO - URL: https://103531-101802.weeblysite.com/
+2024-11-30 03:01:39,948 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-11-30 03:01:39,948 - INFO - Prediction: Phishing
+2024-11-30 03:01:39,958 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:39] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:40,368 - INFO - URL: https://njuytih.nbhyniknhv.workers.dev/
+2024-11-30 03:01:40,368 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:40,378 - INFO - Prediction: Legitimate
+2024-11-30 03:01:40,378 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:40] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:40,773 - INFO - URL: https://pub-726804d9075f4304abf176af65440d7d.r2.dev/index%20(1).html
+2024-11-30 03:01:40,773 - INFO - Extracted Features: [1, 0, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:40,773 - INFO - Prediction: Phishing
+2024-11-30 03:01:40,773 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:40] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:41,277 - INFO - URL: https://pub-05ac5e9bbd614ca482ca1255c2e7251f.r2.dev/webpages.html
+2024-11-30 03:01:41,277 - INFO - Extracted Features: [1, 0, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:41,277 - INFO - Prediction: Phishing
+2024-11-30 03:01:41,277 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:41] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:42,388 - INFO - URL: https://telstra-102969.weeblysite.com/
+2024-11-30 03:01:42,388 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 03:01:42,388 - INFO - Prediction: Phishing
+2024-11-30 03:01:42,388 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:42] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:42,884 - INFO - URL: https://identifiez-vous797.godaddysites.com/
+2024-11-30 03:01:42,884 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:42,884 - INFO - Prediction: Legitimate
+2024-11-30 03:01:42,884 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:42] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:43,512 - INFO - URL: https://web-lnicio-rural.biz.site/
+2024-11-30 03:01:43,512 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:43,512 - INFO - Prediction: Legitimate
+2024-11-30 03:01:43,522 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:43] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:44,343 - INFO - URL: https://taplink.cc/ahtthhh
+2024-11-30 03:01:44,343 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 03:01:44,343 - INFO - Prediction: Legitimate
+2024-11-30 03:01:44,354 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:44] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:44,706 - INFO - URL: https://bafybeifkia5ayvl3ikrkvufpjjrhyagt2nn5qsnhlych3oq4indspot5wi.ipfs.cf-ipfs.com/886256281mn7757.html
+2024-11-30 03:01:44,706 - INFO - Extracted Features: [1, -1, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:44,706 - INFO - Prediction: Phishing
+2024-11-30 03:01:44,706 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:44] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:45,231 - INFO - URL: https://autoiothiatowers.web.app/
+2024-11-30 03:01:45,231 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:45,234 - INFO - Prediction: Legitimate
+2024-11-30 03:01:45,235 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:45] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:45,740 - INFO - URL: https://bit.ly/4a0enMA
+2024-11-30 03:01:45,740 - INFO - Extracted Features: [1, 1, -1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-11-30 03:01:45,743 - INFO - Prediction: Legitimate
+2024-11-30 03:01:45,746 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:45] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:46,326 - INFO - URL: https://pub-2c4139b84e5e4387948965178b342a8e.r2.dev/index.html
+2024-11-30 03:01:46,326 - INFO - Extracted Features: [1, 0, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:01:46,330 - INFO - Prediction: Phishing
+2024-11-30 03:01:46,330 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:46] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:47,079 - INFO - URL: https://docs.google.com/presentation/d/e/2PACX-1vR_62eaNuYGziPZ3j5wgzY8sMIlUyBDo6x-dkqmen0PGVvNR6sK8Pm78-E65qMD79z9TOTVAbQPX0wI/pub?start=false&loop=false&delayms=3000&slide=id.g1ef3a49f657_0_23
+2024-11-30 03:01:47,079 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 03:01:47,089 - INFO - Prediction: Legitimate
+2024-11-30 03:01:47,089 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:47] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:01:49,253 - INFO - URL: https://vkontakte.ru/away.php?cc_key=ckjZNo&to=https://tube.bingle.pro/themes/api.php
+2024-11-30 03:01:49,253 - INFO - Extracted Features: [1, -1, 1, 1, -1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 03:01:49,253 - INFO - Prediction: Legitimate
+2024-11-30 03:01:49,266 - INFO - 127.0.0.1 - - [30/Nov/2024 03:01:49] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:02:07,071 - INFO - URL: https://ipfs.io/ipfs/bafybeibiuunwhfhckldmsb7bbfys7fjddivmfivvmco7xs53szr5gks5si
+2024-11-30 03:02:07,071 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 03:02:07,071 - INFO - Prediction: Legitimate
+2024-11-30 03:02:07,081 - INFO - 127.0.0.1 - - [30/Nov/2024 03:02:07] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:02:08,135 - INFO - URL: https://view.campanhasbradesco.com.br/?qs=da69879c363b00ff3d9c6947e79fc6a6c96445fb688b20e03f87e53593d057ca0c503485b3725b657e464ef1354c4c3aea489232eeee7a3610d56dc380e4737ca86d394363ded1b7bfc6b6f66b98d52e
+2024-11-30 03:02:08,135 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:02:08,135 - INFO - Prediction: Legitimate
+2024-11-30 03:02:08,135 - INFO - 127.0.0.1 - - [30/Nov/2024 03:02:08] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:02:08,602 - INFO - URL: https://azevilianmys.firebaseapp.com/
+2024-11-30 03:02:08,602 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:02:08,602 - INFO - Prediction: Legitimate
+2024-11-30 03:02:08,602 - INFO - 127.0.0.1 - - [30/Nov/2024 03:02:08] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:02:09,728 - INFO - URL: https://t.co/R3rYYodeqo?zmdtQH
+2024-11-30 03:02:09,728 - INFO - Extracted Features: [1, 1, -1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:02:09,733 - INFO - Prediction: Legitimate
+2024-11-30 03:02:09,733 - INFO - 127.0.0.1 - - [30/Nov/2024 03:02:09] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:02:10,022 - INFO - URL: https://cloudflare-ipfs.com/ipfs/bafybeigmpgdumbuay765ftn2d56spjqdzls4efq3jn36lsmgeop4lx72ue/ser.html
+2024-11-30 03:02:10,022 - INFO - Extracted Features: [1, -1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:02:10,029 - INFO - Prediction: Phishing
+2024-11-30 03:02:10,029 - INFO - 127.0.0.1 - - [30/Nov/2024 03:02:10] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:02:10,559 - INFO - URL: https://dhgeer.cn
+2024-11-30 03:02:10,559 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:02:10,559 - INFO - Prediction: Legitimate
+2024-11-30 03:02:10,569 - INFO - 127.0.0.1 - - [30/Nov/2024 03:02:10] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:02:10,884 - INFO - URL: https://usp.ussphg.top/
+2024-11-30 03:02:10,884 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:02:10,884 - INFO - Prediction: Legitimate
+2024-11-30 03:02:10,894 - INFO - 127.0.0.1 - - [30/Nov/2024 03:02:10] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:02:12,091 - INFO - URL: https://ionos-103095.weeblysite.com/
+2024-11-30 03:02:12,091 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 03:02:12,091 - INFO - Prediction: Phishing
+2024-11-30 03:02:12,101 - INFO - 127.0.0.1 - - [30/Nov/2024 03:02:12] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:02:13,361 - INFO - URL: https://telstra-108407.weeblysite.com/
+2024-11-30 03:02:13,361 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 03:02:13,361 - INFO - Prediction: Phishing
+2024-11-30 03:02:13,361 - INFO - 127.0.0.1 - - [30/Nov/2024 03:02:13] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:02:34,789 - INFO - URL: https://akt-db-kunden-id.serveusers.com/anmelden/
+2024-11-30 03:02:34,789 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:02:34,799 - INFO - Prediction: Legitimate
+2024-11-30 03:02:34,799 - INFO - 127.0.0.1 - - [30/Nov/2024 03:02:34] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:02:35,234 - INFO - URL: https://uyhghetjyrysthfdgvedg.github.io/WEFUIGHTEJNFGED/
+2024-11-30 03:02:35,234 - INFO - Extracted Features: [1, 0, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:02:35,234 - INFO - Prediction: Legitimate
+2024-11-30 03:02:35,234 - INFO - 127.0.0.1 - - [30/Nov/2024 03:02:35] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:02:35,757 - INFO - URL: https://muskingumcounty.myportfolio.com/
+2024-11-30 03:02:35,757 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:02:35,757 - INFO - Prediction: Legitimate
+2024-11-30 03:02:35,757 - INFO - 127.0.0.1 - - [30/Nov/2024 03:02:35] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:02:36,039 - INFO - URL: https://cloudflare-ipfs.com/ipfs/bafybeidjadmjrugarsikzj35qlqcdznc2kfpdrwejd4zhvwgdq3bnslc2y
+2024-11-30 03:02:36,039 - INFO - Extracted Features: [1, -1, 1, 1, 1, -1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:02:36,049 - INFO - Prediction: Legitimate
+2024-11-30 03:02:36,049 - INFO - 127.0.0.1 - - [30/Nov/2024 03:02:36] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:02:36,574 - INFO - URL: https://almardoof.com/Webmail/73/Webmail/webmail.php
+2024-11-30 03:02:36,574 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:02:36,574 - INFO - Prediction: Legitimate
+2024-11-30 03:02:36,574 - INFO - 127.0.0.1 - - [30/Nov/2024 03:02:36] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:02:36,840 - INFO - URL: https://cloudflare-ipfs.com/ipfs/bafkreifddtc7xyokcbhn2eiba2yyxft4iwp2pls2bpum756zzrdf6cudzm
+2024-11-30 03:02:36,840 - INFO - Extracted Features: [1, -1, 1, 1, 1, -1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:02:36,840 - INFO - Prediction: Legitimate
+2024-11-30 03:02:36,850 - INFO - 127.0.0.1 - - [30/Nov/2024 03:02:36] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:02:37,331 - INFO - URL: https://pub-4f3cbcf3cbe5449282d80ef9c272ae1a.r2.dev/index.html
+2024-11-30 03:02:37,331 - INFO - Extracted Features: [1, 0, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:02:37,341 - INFO - Prediction: Phishing
+2024-11-30 03:02:37,341 - INFO - 127.0.0.1 - - [30/Nov/2024 03:02:37] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:02:38,378 - INFO - URL: https://throbbing-flower-8863.on.fleek.co/
+2024-11-30 03:02:38,378 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 03:02:38,378 - INFO - Prediction: Phishing
+2024-11-30 03:02:38,388 - INFO - 127.0.0.1 - - [30/Nov/2024 03:02:38] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:02:38,870 - INFO - URL: https://testlb.pages.dev
+2024-11-30 03:02:38,870 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:02:38,870 - INFO - Prediction: Legitimate
+2024-11-30 03:02:38,880 - INFO - 127.0.0.1 - - [30/Nov/2024 03:02:38] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:02:39,334 - INFO - URL: https://runjame23.wixsite.com/my-site-1
+2024-11-30 03:02:39,334 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:02:39,344 - INFO - Prediction: Legitimate
+2024-11-30 03:02:39,344 - INFO - 127.0.0.1 - - [30/Nov/2024 03:02:39] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:02:39,716 - INFO - URL: https://urxefa.com/
+2024-11-30 03:02:39,716 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 03:02:39,718 - INFO - Prediction: Legitimate
+2024-11-30 03:02:39,718 - INFO - 127.0.0.1 - - [30/Nov/2024 03:02:39] "POST /predict HTTP/1.1" 200 -
+2024-11-30 03:02:40,518 - INFO - URL: https://new.express.adobe.com/webpage/hL7Iyka93ZVNx
+2024-11-30 03:02:40,518 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 03:02:40,518 - INFO - Prediction: Legitimate
+2024-11-30 03:02:40,524 - INFO - 127.0.0.1 - - [30/Nov/2024 03:02:40] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:08:40,524 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-11-30 16:08:40,525 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-30 16:08:40,526 - INFO -  * Restarting with stat
+2024-11-30 16:08:45,640 - WARNING -  * Debugger is active!
+2024-11-30 16:08:45,660 - INFO -  * Debugger PIN: 436-547-908
+2024-11-30 16:12:01,470 - WARNING - Invalid URL format: chrome://extensions/
+2024-11-30 16:12:01,471 - INFO - 127.0.0.1 - - [30/Nov/2024 16:12:01] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-30 16:12:08,014 - WARNING - Invalid URL format: chrome://extensions/
+2024-11-30 16:12:08,015 - INFO - 127.0.0.1 - - [30/Nov/2024 16:12:08] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-30 16:13:28,440 - WARNING - Invalid URL format: chrome://newtab/
+2024-11-30 16:13:28,441 - INFO - 127.0.0.1 - - [30/Nov/2024 16:13:28] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-30 16:16:56,690 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-11-30 16:16:56,690 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-30 16:16:56,695 - INFO -  * Restarting with stat
+2024-11-30 16:17:02,402 - WARNING -  * Debugger is active!
+2024-11-30 16:17:02,425 - INFO -  * Debugger PIN: 436-547-908
+2024-11-30 16:17:35,909 - INFO - URL: https://www.google.com/search?q=github+login&rlz=1C1CHBF_enIN915IN915&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAuGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gIyGwgIEC4YQxjHARi0AhjqAhjIAxjRAxiABBiKBdIBCTExODhqMGoxNagCCbACAQ&sourceid=chrome&ie=UTF-8
+2024-11-30 16:17:35,909 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 16:17:35,932 - INFO - Prediction: Legitimate
+2024-11-30 16:17:35,940 - INFO - 127.0.0.1 - - [30/Nov/2024 16:17:35] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:17:37,379 - INFO - URL: https://github.com/
+2024-11-30 16:17:37,379 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 16:17:37,384 - INFO - Prediction: Legitimate
+2024-11-30 16:17:37,388 - INFO - 127.0.0.1 - - [30/Nov/2024 16:17:37] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:17:50,247 - WARNING - Invalid URL format: chrome://newtab/
+2024-11-30 16:17:50,248 - INFO - 127.0.0.1 - - [30/Nov/2024 16:17:50] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-30 16:18:08,592 - INFO - URL: https://www.google.com/search?gs_ssp=eJzj4tLP1TcwMsvJyzNQYDRgdGDw4izIyCzOKEnMywYAYG4Hnw&q=phishtank&rlz=1C1CHBF_enIN915IN915&oq=phish+tank&gs_lcrp=EgZjaHJvbWUqEggBEC4YChjHARixAxjRAxiABDIGCAAQRRg5MhIIARAuGAoYxwEYsQMY0QMYgAQyCQgCEAAYChiABDIJCAMQABgKGIAEMgkIBBAAGAoYgAQyCQgFEAAYChiABDIJCAYQABgKGIAEMgkIBxAAGAoYgAQyCQgIEAAYChiABNIBCjExOTk4ajBqMTWoAgmwAgE&sourceid=chrome&ie=UTF-8
+2024-11-30 16:18:08,593 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 16:18:08,598 - INFO - Prediction: Legitimate
+2024-11-30 16:18:08,604 - INFO - 127.0.0.1 - - [30/Nov/2024 16:18:08] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:18:10,653 - INFO - URL: https://phishtank.org/
+2024-11-30 16:18:10,653 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 16:18:10,656 - INFO - Prediction: Legitimate
+2024-11-30 16:18:10,660 - INFO - 127.0.0.1 - - [30/Nov/2024 16:18:10] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:18:21,045 - WARNING - Invalid URL format: chrome://newtab/
+2024-11-30 16:18:21,046 - INFO - 127.0.0.1 - - [30/Nov/2024 16:18:21] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-30 16:18:28,086 - INFO - URL: https://laposte-run.com/index.php
+2024-11-30 16:18:28,086 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, -1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 16:18:28,089 - INFO - Prediction: Phishing
+2024-11-30 16:18:28,092 - INFO - 127.0.0.1 - - [30/Nov/2024 16:18:28] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:18:49,279 - WARNING - Invalid URL format: chrome://newtab/
+2024-11-30 16:18:49,281 - INFO - 127.0.0.1 - - [30/Nov/2024 16:18:49] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-30 16:18:55,562 - INFO - URL: https://www.revock.cash/
+2024-11-30 16:18:55,562 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 16:18:55,566 - INFO - Prediction: Legitimate
+2024-11-30 16:18:55,571 - INFO - 127.0.0.1 - - [30/Nov/2024 16:18:55] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:19:12,607 - INFO - URL: https://phishtank.org/phish_search.php?verified=u&active=y
+2024-11-30 16:19:12,607 - INFO - Extracted Features: [1, 0, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 16:19:12,614 - INFO - Prediction: Legitimate
+2024-11-30 16:19:12,619 - INFO - 127.0.0.1 - - [30/Nov/2024 16:19:12] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:19:22,672 - WARNING - Invalid URL format: chrome://newtab/
+2024-11-30 16:19:22,674 - INFO - 127.0.0.1 - - [30/Nov/2024 16:19:22] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-30 16:19:30,790 - INFO - URL: https://pancakezswapprewardss.xyz/
+2024-11-30 16:19:30,790 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 16:19:30,796 - INFO - Prediction: Legitimate
+2024-11-30 16:19:30,802 - INFO - 127.0.0.1 - - [30/Nov/2024 16:19:30] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:19:47,479 - WARNING - Invalid URL format: chrome://newtab/
+2024-11-30 16:19:47,480 - INFO - 127.0.0.1 - - [30/Nov/2024 16:19:47] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-30 16:19:54,852 - INFO - URL: https://phishtank.org/phish_archive.php
+2024-11-30 16:19:54,853 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 16:19:54,858 - INFO - Prediction: Legitimate
+2024-11-30 16:19:54,859 - INFO - 127.0.0.1 - - [30/Nov/2024 16:19:54] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:19:54,893 - INFO - URL: https://phishtank.org/phish_archive.php?__cf_chl_rt_tk=edFayjkTptvCW_gb0LoT_ausMH.tZpINXclqyYeQt20-1733001592-1.0.1.1-iBEkLrip20T3kVtuzcbyw_8hMh6T3RfIoa7vHwsrLXM
+2024-11-30 16:19:54,893 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 16:19:54,897 - INFO - Prediction: Legitimate
+2024-11-30 16:19:54,897 - INFO - 127.0.0.1 - - [30/Nov/2024 16:19:54] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:19:54,977 - INFO - URL: https://phishtank.org/phish_archive.php
+2024-11-30 16:19:54,978 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 16:19:54,981 - INFO - Prediction: Legitimate
+2024-11-30 16:19:54,983 - INFO - 127.0.0.1 - - [30/Nov/2024 16:19:54] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:19:57,580 - INFO - URL: https://phishtank.org/phish_archive.php?__cf_chl_tk=edFayjkTptvCW_gb0LoT_ausMH.tZpINXclqyYeQt20-1733001592-1.0.1.1-iBEkLrip20T3kVtuzcbyw_8hMh6T3RfIoa7vHwsrLXM
+2024-11-30 16:19:57,580 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 16:19:57,583 - INFO - Prediction: Legitimate
+2024-11-30 16:19:57,584 - INFO - 127.0.0.1 - - [30/Nov/2024 16:19:57] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:19:58,041 - INFO - URL: https://phishtank.org/phish_archive.php
+2024-11-30 16:19:58,041 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 16:19:58,045 - INFO - Prediction: Legitimate
+2024-11-30 16:19:58,046 - INFO - 127.0.0.1 - - [30/Nov/2024 16:19:58] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:20:12,071 - INFO - URL: https://s-fortfahren.com/
+2024-11-30 16:20:12,072 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 16:20:12,076 - INFO - Prediction: Phishing
+2024-11-30 16:20:12,083 - INFO - 127.0.0.1 - - [30/Nov/2024 16:20:12] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:20:18,356 - WARNING - Invalid URL format: chrome://newtab/
+2024-11-30 16:20:18,359 - INFO - 127.0.0.1 - - [30/Nov/2024 16:20:18] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-30 16:20:32,230 - INFO - URL: https://laposte-run.com/pages/
+2024-11-30 16:20:32,230 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, -1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 16:20:32,233 - INFO - Prediction: Phishing
+2024-11-30 16:20:32,237 - INFO - 127.0.0.1 - - [30/Nov/2024 16:20:32] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:21:34,341 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-11-30 16:21:34,341 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-30 16:21:34,346 - INFO -  * Restarting with stat
+2024-11-30 16:21:39,759 - WARNING -  * Debugger is active!
+2024-11-30 16:21:39,778 - INFO -  * Debugger PIN: 436-547-908
+2024-11-30 16:21:40,803 - WARNING - Invalid URL format: chrome://newtab/
+2024-11-30 16:21:40,805 - INFO - 127.0.0.1 - - [30/Nov/2024 16:21:40] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-30 16:21:46,342 - INFO - URL: https://www.google.com/search?gs_ssp=eJzj4tLP1TcwMsvJyzNQYDRgdGDw4izIyCzOKEnMywYAYG4Hnw&q=phishtank&rlz=1C1CHBF_enIN915IN915&oq=&gs_lcrp=EgZjaHJvbWUqDwgBEC4YJxjHARjqAhjRAzIJCAAQIxgnGOoCMg8IARAuGCcYxwEY6gIY0QMyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFEC4YJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gLSAQk3NTQxMGowajeoAgiwAgE&sourceid=chrome&ie=UTF-8
+2024-11-30 16:21:46,342 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 16:21:46,348 - INFO - Prediction: Legitimate
+2024-11-30 16:21:46,352 - INFO - 127.0.0.1 - - [30/Nov/2024 16:21:46] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:21:51,065 - INFO - URL: https://www.google.com/search?gs_ssp=eJzj4tLP1TcwMsvJyzNQYDRgdGDw4izIyCzOKEnMywYAYG4Hnw&q=phishtank&rlz=1C1CHBF_enIN915IN915&oq=&gs_lcrp=EgZjaHJvbWUqDwgBEC4YJxjHARjqAhjRAzIJCAAQIxgnGOoCMg8IARAuGCcYxwEY6gIY0QMyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFEC4YJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gLSAQk3NTQxMGowajeoAgiwAgE&sourceid=chrome&ie=UTF-8
+2024-11-30 16:21:51,066 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 16:21:51,072 - INFO - Prediction: Legitimate
+2024-11-30 16:21:51,077 - INFO - 127.0.0.1 - - [30/Nov/2024 16:21:51] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:21:58,894 - INFO - URL: https://phishtank.org/
+2024-11-30 16:21:58,894 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 16:21:58,899 - INFO - Prediction: Legitimate
+2024-11-30 16:21:58,906 - INFO - 127.0.0.1 - - [30/Nov/2024 16:21:58] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:22:08,466 - WARNING - Invalid URL format: chrome://newtab/
+2024-11-30 16:22:08,467 - INFO - 127.0.0.1 - - [30/Nov/2024 16:22:08] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-30 16:22:21,883 - INFO - URL: https://laposte-run.com/
+2024-11-30 16:22:21,884 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, -1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 16:22:21,889 - INFO - Prediction: Phishing
+2024-11-30 16:22:21,893 - INFO - 127.0.0.1 - - [30/Nov/2024 16:22:21] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:22:22,110 - WARNING - Invalid URL format: chrome://newtab/
+2024-11-30 16:22:22,111 - INFO - 127.0.0.1 - - [30/Nov/2024 16:22:22] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-30 16:22:28,373 - INFO - URL: https://laposte-run.com/
+2024-11-30 16:22:28,375 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, -1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 16:22:28,378 - INFO - Prediction: Phishing
+2024-11-30 16:22:28,381 - INFO - 127.0.0.1 - - [30/Nov/2024 16:22:28] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:29:20,690 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-11-30 16:29:20,690 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-30 16:29:20,694 - INFO -  * Restarting with stat
+2024-11-30 16:29:26,292 - WARNING -  * Debugger is active!
+2024-11-30 16:29:26,311 - INFO -  * Debugger PIN: 436-547-908
+2024-11-30 16:29:31,161 - INFO - URL: https://690avengers.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog
+2024-11-30 16:29:31,162 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 16:29:31,170 - INFO - Prediction: Legitimate
+2024-11-30 16:29:31,178 - INFO - 127.0.0.1 - - [30/Nov/2024 16:29:31] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:29:38,863 - INFO - URL: https://690avengers.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog
+2024-11-30 16:29:38,863 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 16:29:38,867 - INFO - Prediction: Legitimate
+2024-11-30 16:29:38,871 - INFO - 127.0.0.1 - - [30/Nov/2024 16:29:38] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:29:49,395 - WARNING - Invalid URL format: chrome://newtab/
+2024-11-30 16:29:49,396 - INFO - 127.0.0.1 - - [30/Nov/2024 16:29:49] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-30 16:29:55,316 - INFO - URL: https://s-fortfahren.com/
+2024-11-30 16:29:55,317 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 16:29:55,320 - INFO - Prediction: Phishing
+2024-11-30 16:29:55,328 - INFO - 127.0.0.1 - - [30/Nov/2024 16:29:55] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:30:00,407 - INFO - URL: https://s-fortfahren.com/
+2024-11-30 16:30:00,407 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 16:30:00,413 - INFO - Prediction: Phishing
+2024-11-30 16:30:00,426 - INFO - 127.0.0.1 - - [30/Nov/2024 16:30:00] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:30:39,476 - WARNING - Invalid URL format: chrome://newtab/
+2024-11-30 16:30:39,477 - INFO - 127.0.0.1 - - [30/Nov/2024 16:30:39] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-30 16:30:45,073 - INFO - URL: https://pdalife.to/
+2024-11-30 16:30:45,073 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 16:30:45,079 - INFO - Prediction: Legitimate
+2024-11-30 16:30:45,086 - INFO - 127.0.0.1 - - [30/Nov/2024 16:30:45] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:30:50,372 - INFO - URL: https://pdalife.to/
+2024-11-30 16:30:50,373 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 16:30:50,376 - INFO - Prediction: Legitimate
+2024-11-30 16:30:50,379 - INFO - 127.0.0.1 - - [30/Nov/2024 16:30:50] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:31:33,516 - INFO - URL: https://phishtank.org/phish_search.php?verified=u&active=y
+2024-11-30 16:31:33,516 - INFO - Extracted Features: [1, 0, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 16:31:33,520 - INFO - Prediction: Legitimate
+2024-11-30 16:31:33,523 - INFO - 127.0.0.1 - - [30/Nov/2024 16:31:33] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:31:42,338 - INFO - URL: https://phishtank.org/phish_archive.php
+2024-11-30 16:31:42,338 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 16:31:42,344 - INFO - Prediction: Legitimate
+2024-11-30 16:31:42,345 - INFO - 127.0.0.1 - - [30/Nov/2024 16:31:42] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:31:53,313 - WARNING - Invalid URL format: chrome://newtab/
+2024-11-30 16:31:53,314 - INFO - 127.0.0.1 - - [30/Nov/2024 16:31:53] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-30 16:32:01,428 - INFO - URL: https://s-fortfahren.com/
+2024-11-30 16:32:01,428 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 16:32:01,432 - INFO - Prediction: Phishing
+2024-11-30 16:32:01,439 - INFO - 127.0.0.1 - - [30/Nov/2024 16:32:01] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:32:05,902 - INFO - URL: https://s-fortfahren.com/
+2024-11-30 16:32:05,902 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 16:32:05,905 - INFO - Prediction: Phishing
+2024-11-30 16:32:05,911 - INFO - 127.0.0.1 - - [30/Nov/2024 16:32:05] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:34:15,195 - WARNING - Invalid URL format: chrome://newtab/
+2024-11-30 16:34:15,196 - INFO - 127.0.0.1 - - [30/Nov/2024 16:34:15] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-30 16:38:10,290 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-11-30 16:38:10,291 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-30 16:38:10,295 - INFO -  * Restarting with stat
+2024-11-30 16:38:15,528 - WARNING -  * Debugger is active!
+2024-11-30 16:38:15,547 - INFO -  * Debugger PIN: 436-547-908
+2024-11-30 16:38:20,602 - WARNING - Invalid URL format: chrome://newtab/
+2024-11-30 16:38:20,604 - INFO - 127.0.0.1 - - [30/Nov/2024 16:38:20] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-30 16:38:27,245 - INFO - URL: https://www.google.com/search?q=github+login&rlz=1C1CHBF_enIN915IN915&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMg8IARAuGCcYxwEY6gIY0QMyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQLhgnGOoCMgkIBxAjGCcY6gIyGwgIEC4YQxjHARi0AhjqAhjIAxjRAxiABBiKBdIBCTE1MzVqMGoxNagCCbACAQ&sourceid=chrome&ie=UTF-8
+2024-11-30 16:38:27,245 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 16:38:27,253 - INFO - Prediction: Legitimate
+2024-11-30 16:38:27,259 - INFO - 127.0.0.1 - - [30/Nov/2024 16:38:27] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:38:32,428 - INFO - URL: https://www.google.com/search?q=github+login&rlz=1C1CHBF_enIN915IN915&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMg8IARAuGCcYxwEY6gIY0QMyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQLhgnGOoCMgkIBxAjGCcY6gIyGwgIEC4YQxjHARi0AhjqAhjIAxjRAxiABBiKBdIBCTE1MzVqMGoxNagCCbACAQ&sourceid=chrome&ie=UTF-8
+2024-11-30 16:38:32,428 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 16:38:32,433 - INFO - Prediction: Legitimate
+2024-11-30 16:38:32,438 - INFO - 127.0.0.1 - - [30/Nov/2024 16:38:32] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:38:38,113 - WARNING - Invalid URL format: chrome://newtab/
+2024-11-30 16:38:38,116 - INFO - 127.0.0.1 - - [30/Nov/2024 16:38:38] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-30 16:38:45,874 - INFO - URL: https://app.slack.com/client/T07KGUCRS2D/C07KT2U65NU
+2024-11-30 16:38:45,875 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 16:38:45,881 - INFO - Prediction: Legitimate
+2024-11-30 16:38:45,888 - INFO - 127.0.0.1 - - [30/Nov/2024 16:38:45] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:38:50,713 - INFO - URL: https://app.slack.com/client/T07KGUCRS2D/C07KT2U65NU
+2024-11-30 16:38:50,713 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 16:38:50,719 - INFO - Prediction: Legitimate
+2024-11-30 16:38:50,725 - INFO - 127.0.0.1 - - [30/Nov/2024 16:38:50] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:38:55,693 - WARNING - Invalid URL format: chrome://newtab/
+2024-11-30 16:38:55,694 - INFO - 127.0.0.1 - - [30/Nov/2024 16:38:55] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-30 16:38:59,874 - INFO - URL: https://690avengers.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog
+2024-11-30 16:38:59,874 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 16:38:59,881 - INFO - Prediction: Legitimate
+2024-11-30 16:38:59,894 - INFO - 127.0.0.1 - - [30/Nov/2024 16:38:59] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:39:03,849 - INFO - URL: https://690avengers.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog
+2024-11-30 16:39:03,849 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 16:39:03,853 - INFO - Prediction: Legitimate
+2024-11-30 16:39:03,856 - INFO - 127.0.0.1 - - [30/Nov/2024 16:39:03] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:39:14,120 - WARNING - Invalid URL format: chrome://newtab/
+2024-11-30 16:39:14,121 - INFO - 127.0.0.1 - - [30/Nov/2024 16:39:14] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-30 16:39:22,575 - INFO - URL: https://www.google.com/search?q=x+login&rlz=1C1CHBF_enIN915IN915&oq=&gs_lcrp=EgZjaHJvbWUqCQgHECMYJxjqAjIJCAAQIxgnGOoCMg8IARAuGCcYxwEY6gIY0QMyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQLhgnGOoCMgkIBxAjGCcY6gLSAQo0NDU1MTZqMGo3qAIIsAIB&sourceid=chrome&ie=UTF-8
+2024-11-30 16:39:22,575 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 16:39:22,582 - INFO - Prediction: Legitimate
+2024-11-30 16:39:22,588 - INFO - 127.0.0.1 - - [30/Nov/2024 16:39:22] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:39:24,871 - INFO - URL: https://x.com/i/flow/login
+2024-11-30 16:39:24,872 - INFO - Extracted Features: [1, 1, -1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 16:39:24,875 - INFO - Prediction: Legitimate
+2024-11-30 16:39:24,879 - INFO - 127.0.0.1 - - [30/Nov/2024 16:39:24] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:39:25,133 - WARNING - Invalid URL format: chrome://newtab/
+2024-11-30 16:39:25,134 - INFO - 127.0.0.1 - - [30/Nov/2024 16:39:25] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-30 16:39:43,436 - INFO - URL: https://x.com/home
+2024-11-30 16:39:43,436 - INFO - Extracted Features: [1, 1, -1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 16:39:43,443 - INFO - Prediction: Legitimate
+2024-11-30 16:39:43,447 - INFO - 127.0.0.1 - - [30/Nov/2024 16:39:43] "POST /predict HTTP/1.1" 200 -
+2024-11-30 16:39:49,388 - INFO - URL: https://x.com/home
+2024-11-30 16:39:49,389 - INFO - Extracted Features: [1, 1, -1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 16:39:49,392 - INFO - Prediction: Legitimate
+2024-11-30 16:39:49,395 - INFO - 127.0.0.1 - - [30/Nov/2024 16:39:49] "POST /predict HTTP/1.1" 200 -
+2024-11-30 20:36:06,672 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-11-30 20:36:06,673 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-30 20:36:06,678 - INFO -  * Restarting with stat
+2024-11-30 20:36:12,194 - WARNING -  * Debugger is active!
+2024-11-30 20:36:12,214 - INFO -  * Debugger PIN: 436-547-908
+2024-11-30 20:36:20,530 - INFO - URL: https://www.google.com
+2024-11-30 20:36:20,531 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 20:36:20,546 - INFO - Prediction: Legitimate
+2024-11-30 20:36:20,551 - INFO - 127.0.0.1 - - [30/Nov/2024 20:36:20] "POST /predict HTTP/1.1" 200 -
+2024-11-30 20:46:33,791 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-11-30 20:46:33,792 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-30 20:46:33,797 - INFO -  * Restarting with stat
+2024-11-30 20:46:39,345 - WARNING -  * Debugger is active!
+2024-11-30 20:46:39,365 - INFO -  * Debugger PIN: 436-547-908
+2024-11-30 20:46:40,921 - WARNING - Invalid URL format: chrome://newtab/
+2024-11-30 20:46:40,924 - INFO - 127.0.0.1 - - [30/Nov/2024 20:46:40] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-30 20:46:53,294 - INFO - URL: https://login.microsoftonline.com/d6241893-512d-46dc-8d2b-be47e25f5666/saml2?SAMLRequest=fZJPT%2BMwEMXvfIrId%2BcfSShWW6m0QlSCpaKFAxfk2OPWUmIXj80u3x432RXsAa7jefOb98ZT5H13ZIvgD%2BYBXgOgT%2F70nUE2PMxIcIZZjhqZ4T0g84JtF3e3rExzdnTWW2E78kXys4IjgvPaGpKsVzPy0kqhGlCKSoCcVqJVtG0nQCd1dXmu6qKsWk6SJ3AYNTMSR0QhYoC1Qc%2BNj6W8rGhR0rzY5QWrGlbnzyRZRR%2FacD%2BoDt4fkWVZZ%2FfapL0WzqJV3ppOG0iF7TPZlFUxuTynkShp1UhBJ7JsaQvVBZS1qpumyU7uSpIs%2FllYWoOhB7cF96YFPD7cfqL6d2GDQ8A0mEMKMozwYQZJNn9zu9JGarP%2FObJ2bEJ2s9tt6OZ%2BuyPz6WkOG4Jw8xMzIk8gHVNxQfjgRl%2FDytPsa%2Fd0PPivyFmvNrbT4j25tq7n%2Fvs1irQYKlpSNbSyYPAIQisNMibSdfb30gH3MCORDySbj9D%2FP9b87AM%3D&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=hPRVaBe176DIa1RLR3pVnn2%2BBpXfNBo5ofH2gyeqWy6nI6Yyflxyqp0oX3%2FzzfYVh%2FGVYVDIrS7jU998rvl29S5m69CeJR%2BOj%2FLfbq20JTOgVajfjuMFHP9OhGTgGSd1pmZCeeZWeRaJgAlrtfu3Z3z33vNpvn5WzcYnV5M%2Fs2WcLIK6F7YFE7uKKBckc%2FY%2FQ7GUuMBxD9TD4H%2BOFYuEHSQbsvn3y9AFiztskeHTdGAp5Z6njPqdkUPfCAj5%2BAjojtKIrwjHdPRzDkoWeziQ488pNZjII4Nk1fReuhShlDypc70Stq9bpstbS1Zs7G4B90Fg1Q7pRFJAhvzvOqt%2FZA%3D%3D
+2024-11-30 20:46:53,294 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-11-30 20:46:53,300 - INFO - Prediction: Legitimate
+2024-11-30 20:46:53,305 - INFO - 127.0.0.1 - - [30/Nov/2024 20:46:53] "POST /predict HTTP/1.1" 200 -
+2024-11-30 20:46:53,782 - INFO - URL: https://login.microsoftonline.com/d6241893-512d-46dc-8d2b-be47e25f5666/saml2?SAMLRequest=fZJPT%2BMwEMXvfIrId%2BcfSShWW6m0QlSCpaKFAxfk2OPWUmIXj80u3x432RXsAa7jefOb98ZT5H13ZIvgD%2BYBXgOgT%2F70nUE2PMxIcIZZjhqZ4T0g84JtF3e3rExzdnTWW2E78kXys4IjgvPaGpKsVzPy0kqhGlCKSoCcVqJVtG0nQCd1dXmu6qKsWk6SJ3AYNTMSR0QhYoC1Qc%2BNj6W8rGhR0rzY5QWrGlbnzyRZRR%2FacD%2BoDt4fkWVZZ%2FfapL0WzqJV3ppOG0iF7TPZlFUxuTynkShp1UhBJ7JsaQvVBZS1qpumyU7uSpIs%2FllYWoOhB7cF96YFPD7cfqL6d2GDQ8A0mEMKMozwYQZJNn9zu9JGarP%2FObJ2bEJ2s9tt6OZ%2BuyPz6WkOG4Jw8xMzIk8gHVNxQfjgRl%2FDytPsa%2Fd0PPivyFmvNrbT4j25tq7n%2Fvs1irQYKlpSNbSyYPAIQisNMibSdfb30gH3MCORDySbj9D%2FP9b87AM%3D&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=hPRVaBe176DIa1RLR3pVnn2%2BBpXfNBo5ofH2gyeqWy6nI6Yyflxyqp0oX3%2FzzfYVh%2FGVYVDIrS7jU998rvl29S5m69CeJR%2BOj%2FLfbq20JTOgVajfjuMFHP9OhGTgGSd1pmZCeeZWeRaJgAlrtfu3Z3z33vNpvn5WzcYnV5M%2Fs2WcLIK6F7YFE7uKKBckc%2FY%2FQ7GUuMBxD9TD4H%2BOFYuEHSQbsvn3y9AFiztskeHTdGAp5Z6njPqdkUPfCAj5%2BAjojtKIrwjHdPRzDkoWeziQ488pNZjII4Nk1fReuhShlDypc70Stq9bpstbS1Zs7G4B90Fg1Q7pRFJAhvzvOqt%2FZA%3D%3D&sso_reload=true
+2024-11-30 20:46:53,783 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-11-30 20:46:53,788 - INFO - Prediction: Legitimate
+2024-11-30 20:46:53,793 - INFO - 127.0.0.1 - - [30/Nov/2024 20:46:53] "POST /predict HTTP/1.1" 200 -
+2024-11-30 20:46:55,638 - INFO - URL: https://mycourses.unh.edu/courses/113452
+2024-11-30 20:46:55,639 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-11-30 20:46:55,642 - INFO - Prediction: Legitimate
+2024-11-30 20:46:55,646 - INFO - 127.0.0.1 - - [30/Nov/2024 20:46:55] "POST /predict HTTP/1.1" 200 -
+2024-11-30 20:47:01,518 - INFO - URL: https://mycourses.unh.edu/courses/113452
+2024-11-30 20:47:01,518 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-11-30 20:47:01,524 - INFO - Prediction: Legitimate
+2024-11-30 20:47:01,529 - INFO - 127.0.0.1 - - [30/Nov/2024 20:47:01] "POST /predict HTTP/1.1" 200 -
+2024-11-30 20:49:10,385 - WARNING - Invalid URL format: chrome://newtab/
+2024-11-30 20:49:10,386 - INFO - 127.0.0.1 - - [30/Nov/2024 20:49:10] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-30 20:49:15,870 - INFO - URL: https://www.google.com/search?gs_ssp=eJzj4tLP1TcwMsvJyzNQYDRgdGDw4izIyCzOKEnMywYAYG4Hnw&q=phishtank&rlz=1C1CHBF_enIN915IN915&oq=&gs_lcrp=EgZjaHJvbWUqDwgDEC4YJxjHARjqAhjRAzIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIPCAMQLhgnGMcBGOoCGNEDMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAuGCcY6gLSAQkxNjk1ajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8
+2024-11-30 20:49:15,871 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 20:49:15,877 - INFO - Prediction: Legitimate
+2024-11-30 20:49:15,883 - INFO - 127.0.0.1 - - [30/Nov/2024 20:49:15] "POST /predict HTTP/1.1" 200 -
+2024-11-30 20:49:17,937 - INFO - URL: https://phishtank.org/
+2024-11-30 20:49:17,937 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 20:49:17,941 - INFO - Prediction: Legitimate
+2024-11-30 20:49:17,944 - INFO - 127.0.0.1 - - [30/Nov/2024 20:49:17] "POST /predict HTTP/1.1" 200 -
+2024-11-30 20:50:03,650 - INFO - URL: https://phishtank.org/login_required.php
+2024-11-30 20:50:03,651 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 20:50:03,653 - INFO - Prediction: Legitimate
+2024-11-30 20:50:03,658 - INFO - 127.0.0.1 - - [30/Nov/2024 20:50:03] "POST /predict HTTP/1.1" 200 -
+2024-11-30 20:50:05,412 - INFO - URL: https://phishtank.org/index.php
+2024-11-30 20:50:05,412 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 20:50:05,418 - INFO - Prediction: Legitimate
+2024-11-30 20:50:05,423 - INFO - 127.0.0.1 - - [30/Nov/2024 20:50:05] "POST /predict HTTP/1.1" 200 -
+2024-11-30 20:50:09,133 - INFO - URL: https://phishtank.org/phish_search.php?verified=u&active=y
+2024-11-30 20:50:09,134 - INFO - Extracted Features: [1, 0, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-11-30 20:50:09,137 - INFO - Prediction: Legitimate
+2024-11-30 20:50:09,140 - INFO - 127.0.0.1 - - [30/Nov/2024 20:50:09] "POST /predict HTTP/1.1" 200 -
+2024-11-30 20:50:11,291 - INFO - URL: https://phishtank.org/phish_archive.php?__cf_chl_rt_tk=p_T1ANB4AN_UKCnWrFFtDhR39uyFtucof82FKbvZKiI-1733017809-1.0.1.1-p4uJGtWJWdOjVnvIJQuib1Lx.JcxmGdlX99I1yuYKB0
+2024-11-30 20:50:11,291 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 20:50:11,296 - INFO - Prediction: Legitimate
+2024-11-30 20:50:11,298 - INFO - 127.0.0.1 - - [30/Nov/2024 20:50:11] "POST /predict HTTP/1.1" 200 -
+2024-11-30 20:50:11,352 - INFO - URL: https://phishtank.org/phish_archive.php
+2024-11-30 20:50:11,352 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 20:50:11,355 - INFO - Prediction: Legitimate
+2024-11-30 20:50:11,357 - INFO - 127.0.0.1 - - [30/Nov/2024 20:50:11] "POST /predict HTTP/1.1" 200 -
+2024-11-30 20:50:11,412 - INFO - URL: https://phishtank.org/phish_archive.php
+2024-11-30 20:50:11,412 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 20:50:11,415 - INFO - Prediction: Legitimate
+2024-11-30 20:50:11,416 - INFO - 127.0.0.1 - - [30/Nov/2024 20:50:11] "POST /predict HTTP/1.1" 200 -
+2024-11-30 20:50:13,836 - INFO - URL: https://phishtank.org/phish_archive.php?__cf_chl_tk=p_T1ANB4AN_UKCnWrFFtDhR39uyFtucof82FKbvZKiI-1733017809-1.0.1.1-p4uJGtWJWdOjVnvIJQuib1Lx.JcxmGdlX99I1yuYKB0
+2024-11-30 20:50:13,836 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 20:50:13,840 - INFO - Prediction: Legitimate
+2024-11-30 20:50:13,841 - INFO - 127.0.0.1 - - [30/Nov/2024 20:50:13] "POST /predict HTTP/1.1" 200 -
+2024-11-30 20:50:14,072 - INFO - URL: https://phishtank.org/phish_archive.php
+2024-11-30 20:50:14,073 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 20:50:14,076 - INFO - Prediction: Legitimate
+2024-11-30 20:50:14,077 - INFO - 127.0.0.1 - - [30/Nov/2024 20:50:14] "POST /predict HTTP/1.1" 200 -
+2024-11-30 20:50:19,904 - WARNING - Invalid URL format: chrome://newtab/
+2024-11-30 20:50:19,905 - INFO - 127.0.0.1 - - [30/Nov/2024 20:50:19] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-30 20:50:26,135 - INFO - URL: https://db-kontakt.ns01.info/187/
+2024-11-30 20:50:26,135 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 20:50:26,139 - INFO - Prediction: Phishing
+2024-11-30 20:50:26,144 - INFO - 127.0.0.1 - - [30/Nov/2024 20:50:26] "POST /predict HTTP/1.1" 200 -
+2024-11-30 20:50:29,835 - INFO - URL: https://db-kontakt.ns01.info/187/
+2024-11-30 20:50:29,835 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 20:50:29,838 - INFO - Prediction: Phishing
+2024-11-30 20:50:29,842 - INFO - 127.0.0.1 - - [30/Nov/2024 20:50:29] "POST /predict HTTP/1.1" 200 -
+2024-11-30 20:51:02,135 - INFO - URL: https://chatgpt.com/c/6742bb94-8bec-800d-90b0-f32befc4c379
+2024-11-30 20:51:02,136 - INFO - Extracted Features: [1, 0, -1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-11-30 20:51:02,139 - INFO - Prediction: Legitimate
+2024-11-30 20:51:02,140 - INFO - 127.0.0.1 - - [30/Nov/2024 20:51:02] "POST /predict HTTP/1.1" 200 -
+2024-12-03 06:53:28,620 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-12-03 06:53:28,622 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-03 06:53:28,627 - INFO -  * Restarting with stat
+2024-12-03 06:53:34,008 - WARNING -  * Debugger is active!
+2024-12-03 06:53:34,029 - INFO -  * Debugger PIN: 436-547-908
+2024-12-03 07:17:54,313 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-12-03 07:17:54,313 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-03 07:17:54,323 - INFO -  * Restarting with stat
+2024-12-03 07:18:00,465 - WARNING -  * Debugger is active!
+2024-12-03 07:18:00,487 - INFO -  * Debugger PIN: 436-547-908
+2024-12-03 07:18:04,471 - INFO -  * Detected change in 'C:\\Users\\mukth\\comp898_capstone_project\\Phishing-detector\\testing\\test_urls.py', reloading
+2024-12-03 07:18:04,833 - INFO -  * Restarting with stat
+2024-12-03 07:18:10,350 - WARNING -  * Debugger is active!
+2024-12-03 07:18:10,380 - INFO -  * Debugger PIN: 436-547-908
+2024-12-03 07:18:12,730 - INFO - URL: https://www.google.com
+2024-12-03 07:18:12,730 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:18:12,750 - INFO - Prediction: Legitimate
+2024-12-03 07:18:12,750 - INFO - 127.0.0.1 - - [03/Dec/2024 07:18:12] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:18:13,404 - INFO - URL: https://www.youtube.com
+2024-12-03 07:18:13,404 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 07:18:13,404 - INFO - Prediction: Legitimate
+2024-12-03 07:18:13,414 - INFO - 127.0.0.1 - - [03/Dec/2024 07:18:13] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:18:13,975 - INFO - URL: https://www.facebook.com
+2024-12-03 07:18:13,975 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:18:13,982 - INFO - Prediction: Legitimate
+2024-12-03 07:18:13,982 - INFO - 127.0.0.1 - - [03/Dec/2024 07:18:13] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:18:15,271 - INFO - URL: https://www.baidu.com
+2024-12-03 07:18:15,271 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:18:15,281 - INFO - Prediction: Legitimate
+2024-12-03 07:18:15,281 - INFO - 127.0.0.1 - - [03/Dec/2024 07:18:15] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:18:15,745 - INFO - URL: https://www.wikipedia.org
+2024-12-03 07:18:15,745 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:18:15,745 - INFO - Prediction: Legitimate
+2024-12-03 07:18:15,757 - INFO - 127.0.0.1 - - [03/Dec/2024 07:18:15] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:18:16,752 - INFO - URL: https://www.reddit.com
+2024-12-03 07:18:16,752 - INFO - Extracted Features: [1, 1, -1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:18:16,752 - INFO - Prediction: Legitimate
+2024-12-03 07:18:16,762 - INFO - 127.0.0.1 - - [03/Dec/2024 07:18:16] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:18:17,931 - INFO - URL: https://www.yahoo.com
+2024-12-03 07:18:17,931 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:18:17,931 - INFO - Prediction: Legitimate
+2024-12-03 07:18:17,941 - INFO - 127.0.0.1 - - [03/Dec/2024 07:18:17] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:18:18,739 - INFO - URL: https://www.thenextweb.com
+2024-12-03 07:18:18,739 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 07:18:18,750 - INFO - Prediction: Legitimate
+2024-12-03 07:18:18,750 - INFO - 127.0.0.1 - - [03/Dec/2024 07:18:18] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:18:19,412 - INFO - URL: https://www.qq.com
+2024-12-03 07:18:19,412 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 07:18:19,412 - INFO - Prediction: Legitimate
+2024-12-03 07:18:19,422 - INFO - 127.0.0.1 - - [03/Dec/2024 07:18:19] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:18:19,909 - INFO - URL: https://www.amazon.com
+2024-12-03 07:18:19,909 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:18:19,919 - INFO - Prediction: Legitimate
+2024-12-03 07:18:19,919 - INFO - 127.0.0.1 - - [03/Dec/2024 07:18:19] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:18:20,565 - INFO - URL: https://www.taobao.com
+2024-12-03 07:18:20,565 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:18:20,575 - INFO - Prediction: Legitimate
+2024-12-03 07:18:20,575 - INFO - 127.0.0.1 - - [03/Dec/2024 07:18:20] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:18:21,592 - INFO - URL: https://www.twitter.com
+2024-12-03 07:18:21,592 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 07:18:21,605 - INFO - Prediction: Legitimate
+2024-12-03 07:18:21,610 - INFO - 127.0.0.1 - - [03/Dec/2024 07:18:21] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:18:24,712 - INFO - URL: https://www.tmall.com
+2024-12-03 07:18:24,712 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:18:24,712 - INFO - Prediction: Legitimate
+2024-12-03 07:18:24,712 - INFO - 127.0.0.1 - - [03/Dec/2024 07:18:24] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:18:26,305 - INFO - URL: https://www.indianexpress.com
+2024-12-03 07:18:26,315 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:18:26,315 - INFO - Prediction: Legitimate
+2024-12-03 07:18:26,315 - INFO - 127.0.0.1 - - [03/Dec/2024 07:18:26] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:18:27,235 - INFO - URL: https://www.bestblackhatforum.com
+2024-12-03 07:18:27,235 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:18:27,235 - INFO - Prediction: Legitimate
+2024-12-03 07:18:27,245 - INFO - 127.0.0.1 - - [03/Dec/2024 07:18:27] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:18:28,110 - INFO - URL: https://www.live.com
+2024-12-03 07:18:28,110 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-12-03 07:18:28,110 - INFO - Prediction: Legitimate
+2024-12-03 07:18:28,120 - INFO - 127.0.0.1 - - [03/Dec/2024 07:18:28] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:18:28,824 - INFO - URL: https://www.instagram.com
+2024-12-03 07:18:28,824 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 07:18:28,824 - INFO - Prediction: Legitimate
+2024-12-03 07:18:28,834 - INFO - 127.0.0.1 - - [03/Dec/2024 07:18:28] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:18:29,318 - INFO - URL: https://www.sohu.com
+2024-12-03 07:18:29,318 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 07:18:29,318 - INFO - Prediction: Legitimate
+2024-12-03 07:18:29,328 - INFO - 127.0.0.1 - - [03/Dec/2024 07:18:29] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:18:29,925 - INFO - URL: https://www.sina.com.cn
+2024-12-03 07:18:29,925 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:18:29,935 - INFO - Prediction: Legitimate
+2024-12-03 07:18:29,935 - INFO - 127.0.0.1 - - [03/Dec/2024 07:18:29] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:18:31,672 - INFO - URL: https://www.jd.com
+2024-12-03 07:18:31,672 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:18:31,672 - INFO - Prediction: Legitimate
+2024-12-03 07:18:31,682 - INFO - 127.0.0.1 - - [03/Dec/2024 07:18:31] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:18:34,332 - INFO - URL: https://www.weibo.com
+2024-12-03 07:18:34,332 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 07:18:34,332 - INFO - Prediction: Legitimate
+2024-12-03 07:18:34,342 - INFO - 127.0.0.1 - - [03/Dec/2024 07:18:34] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:18:34,811 - INFO - URL: https://www.thenextweb.com
+2024-12-03 07:18:34,811 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 07:18:34,821 - INFO - Prediction: Legitimate
+2024-12-03 07:18:34,821 - INFO - 127.0.0.1 - - [03/Dec/2024 07:18:34] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:18:34,834 - WARNING - Invalid URL format: https:www.//searchengineland.com
+2024-12-03 07:18:34,834 - INFO - 127.0.0.1 - - [03/Dec/2024 07:18:34] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-12-03 07:18:56,655 - INFO - URL: https://t.co/4G81J8ZUck
+2024-12-03 07:18:56,655 - INFO - Extracted Features: [1, 1, -1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:18:56,665 - INFO - Prediction: Legitimate
+2024-12-03 07:18:56,665 - INFO - 127.0.0.1 - - [03/Dec/2024 07:18:56] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:18,034 - INFO - URL: https://xcbrf.aqgiu.xyz/?kfiay
+2024-12-03 07:19:18,034 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:19:18,044 - INFO - Prediction: Legitimate
+2024-12-03 07:19:18,044 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:18] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:18,617 - INFO - URL: https://omkjvsrmje.duckdns.org/en/main
+2024-12-03 07:19:18,617 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:19:18,617 - INFO - Prediction: Legitimate
+2024-12-03 07:19:18,617 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:18] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:19,665 - INFO - URL: https://docs.google.com/presentation/d/e/2PACX-1vQHMPySp0Cygl8AfZZr0N3tHp6u-T7WHeWedZmePD5rJPob6FwryXlyMDFVOwq50UGn5m4F2NJKfNsd/pub?start=false&amp;loop=false&amp;delayms=3000
+2024-12-03 07:19:19,665 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 07:19:19,665 - INFO - Prediction: Legitimate
+2024-12-03 07:19:19,665 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:19] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:20,455 - INFO - URL: https://docs.google.com/presentation/d/e/2PACX-1vSeLVfZVvwd0RM1MyarLc7CPvm8qj366A6BeBzse8MWl4g-O1dnCvETE9iJE__eVQuPKzKcts6x9c_1/pub?start=false&amp;loop=false&amp;delayms=3000
+2024-12-03 07:19:20,455 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-12-03 07:19:20,455 - INFO - Prediction: Legitimate
+2024-12-03 07:19:20,465 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:20] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:21,268 - INFO - URL: http://nzyokhcycq.duckdns.org
+2024-12-03 07:19:21,268 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:19:21,268 - INFO - Prediction: Phishing
+2024-12-03 07:19:21,278 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:21] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:21,772 - INFO - URL: https://dvhuh.pages.dev/connection-module/
+2024-12-03 07:19:21,772 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:19:21,772 - INFO - Prediction: Legitimate
+2024-12-03 07:19:21,782 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:21] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:22,349 - INFO - URL: https://nqtrolgdvw.duckdns.org
+2024-12-03 07:19:22,349 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:19:22,359 - INFO - Prediction: Legitimate
+2024-12-03 07:19:22,359 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:22] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:22,963 - INFO - URL: https://notusjeacd.duckdns.org
+2024-12-03 07:19:22,963 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:19:22,963 - INFO - Prediction: Legitimate
+2024-12-03 07:19:22,972 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:22] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:23,467 - INFO - URL: https://sh-107790.square.site/
+2024-12-03 07:19:23,467 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:19:23,467 - INFO - Prediction: Legitimate
+2024-12-03 07:19:23,467 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:23] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:24,372 - INFO - URL: https://docs.google.com/presentation/d/e/2PACX-1vQ-6b4VKd87zjj3vZG-GSdXupmCuMIyc4AnFgC-gNTeEpV3k_eqcSebCzEKBSZ4p4ZDH8CRUB407_vD/pub?start=false&amp;loop=false&amp;delayms=3000
+2024-12-03 07:19:24,372 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 07:19:24,382 - INFO - Prediction: Legitimate
+2024-12-03 07:19:24,382 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:24] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:24,819 - INFO - URL: https://contasp.iamallama.com
+2024-12-03 07:19:24,819 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:19:24,819 - INFO - Prediction: Legitimate
+2024-12-03 07:19:24,819 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:24] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:25,087 - INFO - URL: https://contasp.iamallama.com/
+2024-12-03 07:19:25,087 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:19:25,097 - INFO - Prediction: Legitimate
+2024-12-03 07:19:25,097 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:25] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:25,604 - INFO - URL: https://at-ts-beautiful-site-9b2823.webflow.io/
+2024-12-03 07:19:25,604 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:19:25,604 - INFO - Prediction: Legitimate
+2024-12-03 07:19:25,604 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:25] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:26,409 - INFO - URL: https://docs.google.com/presentation/d/e/2PACX-1vSU2vyaP50EkFG-a0fUwlNaQZNYa5kZxsbbj9206Hp-Zr_tGje9uMk40gjW9WWArI96FzRcGIk7jDrw/pub?start=false&loop=false&delayms=3000
+2024-12-03 07:19:26,409 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 07:19:26,419 - INFO - Prediction: Legitimate
+2024-12-03 07:19:26,419 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:26] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:26,778 - INFO - URL: https://abc-paczki.cloud/2o0PrZJv0YJz8XFpbYDM/rmTd97
+2024-12-03 07:19:26,778 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:19:26,778 - INFO - Prediction: Legitimate
+2024-12-03 07:19:26,778 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:26] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:27,154 - INFO - URL: https://customer0-answers.com/
+2024-12-03 07:19:27,154 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:19:27,154 - INFO - Prediction: Legitimate
+2024-12-03 07:19:27,164 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:27] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:27,964 - INFO - URL: https://peach20736886.brizy.site/
+2024-12-03 07:19:27,964 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 07:19:27,964 - INFO - Prediction: Legitimate
+2024-12-03 07:19:27,974 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:27] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:29,021 - INFO - URL: https://att-maildttfl-home.weeblysite.com/
+2024-12-03 07:19:29,021 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-12-03 07:19:29,031 - INFO - Prediction: Phishing
+2024-12-03 07:19:29,031 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:29] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:29,571 - INFO - URL: https://aitit.weebly.com/
+2024-12-03 07:19:29,571 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:19:29,571 - INFO - Prediction: Legitimate
+2024-12-03 07:19:29,581 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:29] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:30,000 - INFO - URL: https://dpd-my.top
+2024-12-03 07:19:30,000 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:19:30,010 - INFO - Prediction: Legitimate
+2024-12-03 07:19:30,010 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:30] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:30,504 - INFO - URL: https://ghiyyu.wixsite.com/my-site
+2024-12-03 07:19:30,504 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:19:30,514 - INFO - Prediction: Legitimate
+2024-12-03 07:19:30,514 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:30] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:31,014 - INFO - URL: https://helen-smith14.wixsite.com/my-site
+2024-12-03 07:19:31,014 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:19:31,014 - INFO - Prediction: Legitimate
+2024-12-03 07:19:31,014 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:31] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:52,463 - INFO - URL: https://www.zimbra-updts.x24hr.com/
+2024-12-03 07:19:52,463 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:19:52,473 - INFO - Prediction: Phishing
+2024-12-03 07:19:52,473 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:52] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:53,040 - INFO - URL: http://zimbra3.findoutwheretogo.com/0010/zm/z/imbra/fr
+2024-12-03 07:19:53,040 - INFO - Extracted Features: [1, 0, 1, 1, 1, 1, 0, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:19:53,049 - INFO - Prediction: Phishing
+2024-12-03 07:19:53,049 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:53] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:53,363 - INFO - URL: https://ureqk.com/
+2024-12-03 07:19:53,363 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:19:53,373 - INFO - Prediction: Legitimate
+2024-12-03 07:19:53,373 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:53] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:53,836 - INFO - URL: https://ksj.pages.dev
+2024-12-03 07:19:53,836 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:19:53,836 - INFO - Prediction: Legitimate
+2024-12-03 07:19:53,836 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:53] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:54,741 - INFO - URL: https://southlandsilica.com/ac/WELLSFARGO/index.html
+2024-12-03 07:19:54,741 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:19:54,741 - INFO - Prediction: Legitimate
+2024-12-03 07:19:54,751 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:54] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:55,720 - INFO - URL: https://digikollective.com.au/ad/WELLSFARGO/index.html
+2024-12-03 07:19:55,720 - INFO - Extracted Features: [1, 0, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:19:55,720 - INFO - Prediction: Legitimate
+2024-12-03 07:19:55,720 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:55] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:56,092 - INFO - URL: https://tinky.com.au/wr/
+2024-12-03 07:19:56,092 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:19:56,092 - INFO - Prediction: Legitimate
+2024-12-03 07:19:56,092 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:56] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:19:56,607 - INFO - URL: https://om-agw.pages.dev
+2024-12-03 07:19:56,607 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:19:56,617 - INFO - Prediction: Legitimate
+2024-12-03 07:19:56,617 - INFO - 127.0.0.1 - - [03/Dec/2024 07:19:56] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:20:58,547 - INFO -  * Detected change in 'C:\\Users\\mukth\\comp898_capstone_project\\Phishing-detector\\testing\\test_urls.py', reloading
+2024-12-03 07:20:58,884 - INFO -  * Restarting with stat
+2024-12-03 07:21:04,645 - WARNING -  * Debugger is active!
+2024-12-03 07:21:04,669 - INFO -  * Debugger PIN: 436-547-908
+2024-12-03 07:30:54,479 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-12-03 07:30:54,479 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-03 07:30:54,487 - INFO -  * Restarting with stat
+2024-12-03 07:30:59,897 - WARNING -  * Debugger is active!
+2024-12-03 07:30:59,919 - INFO -  * Debugger PIN: 436-547-908
+2024-12-03 07:31:06,900 - INFO - URL: https://www.google.com
+2024-12-03 07:31:06,900 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:06,900 - INFO - Prediction: Legitimate
+2024-12-03 07:31:06,910 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:06] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:07,734 - INFO - URL: https://www.youtube.com
+2024-12-03 07:31:07,734 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 07:31:07,734 - INFO - Prediction: Legitimate
+2024-12-03 07:31:07,744 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:07] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:08,341 - INFO - URL: https://www.facebook.com
+2024-12-03 07:31:08,341 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:08,345 - INFO - Prediction: Legitimate
+2024-12-03 07:31:08,349 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:08] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:09,590 - INFO - URL: https://www.baidu.com
+2024-12-03 07:31:09,590 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:09,600 - INFO - Prediction: Legitimate
+2024-12-03 07:31:09,600 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:09] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:10,118 - INFO - URL: https://www.wikipedia.org
+2024-12-03 07:31:10,118 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:10,128 - INFO - Prediction: Legitimate
+2024-12-03 07:31:10,128 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:10] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:11,044 - INFO - URL: https://www.reddit.com
+2024-12-03 07:31:11,044 - INFO - Extracted Features: [1, 1, -1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:11,044 - INFO - Prediction: Legitimate
+2024-12-03 07:31:11,054 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:11] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:12,302 - INFO - URL: https://www.yahoo.com
+2024-12-03 07:31:12,302 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:12,302 - INFO - Prediction: Legitimate
+2024-12-03 07:31:12,312 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:12] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:12,906 - INFO - URL: https://www.thenextweb.com
+2024-12-03 07:31:12,906 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 07:31:12,906 - INFO - Prediction: Legitimate
+2024-12-03 07:31:12,906 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:12] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:13,518 - INFO - URL: https://www.qq.com
+2024-12-03 07:31:13,518 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 07:31:13,518 - INFO - Prediction: Legitimate
+2024-12-03 07:31:13,518 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:13] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:14,126 - INFO - URL: https://www.amazon.com
+2024-12-03 07:31:14,126 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:14,136 - INFO - Prediction: Legitimate
+2024-12-03 07:31:14,136 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:14] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:14,709 - INFO - URL: https://www.taobao.com
+2024-12-03 07:31:14,709 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:14,712 - INFO - Prediction: Legitimate
+2024-12-03 07:31:14,716 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:14] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:15,812 - INFO - URL: https://www.twitter.com
+2024-12-03 07:31:15,812 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 07:31:15,822 - INFO - Prediction: Legitimate
+2024-12-03 07:31:15,822 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:15] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:18,904 - INFO - URL: https://www.tmall.com
+2024-12-03 07:31:18,904 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:18,904 - INFO - Prediction: Legitimate
+2024-12-03 07:31:18,914 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:18] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:20,553 - INFO - URL: https://www.indianexpress.com
+2024-12-03 07:31:20,553 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:20,557 - INFO - Prediction: Legitimate
+2024-12-03 07:31:20,557 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:20] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:21,537 - INFO - URL: https://www.bestblackhatforum.com
+2024-12-03 07:31:21,537 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:21,547 - INFO - Prediction: Legitimate
+2024-12-03 07:31:21,547 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:21] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:22,384 - INFO - URL: https://www.live.com
+2024-12-03 07:31:22,384 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-12-03 07:31:22,384 - INFO - Prediction: Legitimate
+2024-12-03 07:31:22,394 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:22] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:23,146 - INFO - URL: https://www.instagram.com
+2024-12-03 07:31:23,146 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 07:31:23,146 - INFO - Prediction: Legitimate
+2024-12-03 07:31:23,146 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:23] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:23,631 - INFO - URL: https://www.sohu.com
+2024-12-03 07:31:23,631 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 07:31:23,631 - INFO - Prediction: Legitimate
+2024-12-03 07:31:23,641 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:23] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:24,317 - INFO - URL: https://www.sina.com.cn
+2024-12-03 07:31:24,317 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:24,327 - INFO - Prediction: Legitimate
+2024-12-03 07:31:24,327 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:24] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:26,135 - INFO - URL: https://www.jd.com
+2024-12-03 07:31:26,135 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:26,135 - INFO - Prediction: Legitimate
+2024-12-03 07:31:26,144 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:26] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:29,297 - INFO - URL: https://www.weibo.com
+2024-12-03 07:31:29,297 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 07:31:29,306 - INFO - Prediction: Legitimate
+2024-12-03 07:31:29,306 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:29] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:29,760 - INFO - URL: https://www.thenextweb.com
+2024-12-03 07:31:29,760 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 07:31:29,770 - INFO - Prediction: Legitimate
+2024-12-03 07:31:29,770 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:29] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:32,754 - INFO - URL: https://www.//searchengineland.com
+2024-12-03 07:31:32,764 - INFO - Extracted Features: [1, 1, 1, 1, -1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:32,764 - INFO - Prediction: Legitimate
+2024-12-03 07:31:32,764 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:32] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:37,127 - INFO - URL: https://villa-azzurro.com
+2024-12-03 07:31:37,127 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:37,127 - INFO - Prediction: Phishing
+2024-12-03 07:31:37,138 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:37] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:39,226 - INFO - URL: https://milpitaslions.com
+2024-12-03 07:31:39,226 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:39,236 - INFO - Prediction: Legitimate
+2024-12-03 07:31:39,236 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:39] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:39,926 - INFO - URL: https://pastimenangqq101.com
+2024-12-03 07:31:39,926 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:39,926 - INFO - Prediction: Legitimate
+2024-12-03 07:31:39,926 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:39] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:40,563 - INFO - URL: https://firebasestorage.googleapis.com
+2024-12-03 07:31:40,563 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-12-03 07:31:40,573 - INFO - Prediction: Legitimate
+2024-12-03 07:31:40,573 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:40] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:40,999 - INFO - URL: https://cheaproomsvalencia.com
+2024-12-03 07:31:40,999 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:40,999 - INFO - Prediction: Legitimate
+2024-12-03 07:31:40,999 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:40] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:41,694 - INFO - URL: http://paxful-service.com
+2024-12-03 07:31:41,694 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 1, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:41,694 - INFO - Prediction: Phishing
+2024-12-03 07:31:41,704 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:41] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:42,075 - INFO - URL: https://sportbeclick.com
+2024-12-03 07:31:42,075 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:42,085 - INFO - Prediction: Legitimate
+2024-12-03 07:31:42,085 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:42] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:42,671 - INFO - URL: https://nqtrolgdvw.duckdns.org
+2024-12-03 07:31:42,671 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:42,681 - INFO - Prediction: Legitimate
+2024-12-03 07:31:42,681 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:42] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:43,186 - INFO - URL: https://notusjeacd.duckdns.org
+2024-12-03 07:31:43,186 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:43,196 - INFO - Prediction: Legitimate
+2024-12-03 07:31:43,196 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:43] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:43,540 - INFO - URL: https://sh-107790.square.site/
+2024-12-03 07:31:43,540 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:43,550 - INFO - Prediction: Legitimate
+2024-12-03 07:31:43,550 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:43] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:44,506 - INFO - URL: https://docs.google.com/presentation/d/e/2PACX-1vQ-6b4VKd87zjj3vZG-GSdXupmCuMIyc4AnFgC-gNTeEpV3k_eqcSebCzEKBSZ4p4ZDH8CRUB407_vD/pub?start=false&amp;loop=false&amp;delayms=3000
+2024-12-03 07:31:44,506 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 07:31:44,506 - INFO - Prediction: Legitimate
+2024-12-03 07:31:44,506 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:44] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:44,931 - INFO - URL: https://contasp.iamallama.com
+2024-12-03 07:31:44,931 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:44,931 - INFO - Prediction: Legitimate
+2024-12-03 07:31:44,931 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:44] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:45,204 - INFO - URL: https://contasp.iamallama.com/
+2024-12-03 07:31:45,214 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:45,214 - INFO - Prediction: Legitimate
+2024-12-03 07:31:45,214 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:45] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:45,624 - INFO - URL: https://at-ts-beautiful-site-9b2823.webflow.io/
+2024-12-03 07:31:45,624 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:45,624 - INFO - Prediction: Legitimate
+2024-12-03 07:31:45,624 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:45] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:46,431 - INFO - URL: https://docs.google.com/presentation/d/e/2PACX-1vSU2vyaP50EkFG-a0fUwlNaQZNYa5kZxsbbj9206Hp-Zr_tGje9uMk40gjW9WWArI96FzRcGIk7jDrw/pub?start=false&loop=false&delayms=3000
+2024-12-03 07:31:46,431 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 07:31:46,431 - INFO - Prediction: Legitimate
+2024-12-03 07:31:46,441 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:46] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:46,819 - INFO - URL: https://abc-paczki.cloud/2o0PrZJv0YJz8XFpbYDM/rmTd97
+2024-12-03 07:31:46,819 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:46,819 - INFO - Prediction: Legitimate
+2024-12-03 07:31:46,819 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:46] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:47,127 - INFO - URL: https://customer0-answers.com/
+2024-12-03 07:31:47,127 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:47,127 - INFO - Prediction: Legitimate
+2024-12-03 07:31:47,127 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:47] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:47,601 - INFO - URL: https://peach20736886.brizy.site/
+2024-12-03 07:31:47,601 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 07:31:47,601 - INFO - Prediction: Legitimate
+2024-12-03 07:31:47,611 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:47] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:48,576 - INFO - URL: https://att-maildttfl-home.weeblysite.com/
+2024-12-03 07:31:48,576 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-12-03 07:31:48,576 - INFO - Prediction: Phishing
+2024-12-03 07:31:48,586 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:48] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:48,978 - INFO - URL: https://aitit.weebly.com/
+2024-12-03 07:31:48,978 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:48,988 - INFO - Prediction: Legitimate
+2024-12-03 07:31:48,988 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:48] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:49,295 - INFO - URL: https://dpd-my.top
+2024-12-03 07:31:49,295 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:49,305 - INFO - Prediction: Legitimate
+2024-12-03 07:31:49,305 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:49] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:49,728 - INFO - URL: https://ghiyyu.wixsite.com/my-site
+2024-12-03 07:31:49,728 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:49,738 - INFO - Prediction: Legitimate
+2024-12-03 07:31:49,738 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:49] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:31:50,086 - INFO - URL: https://helen-smith14.wixsite.com/my-site
+2024-12-03 07:31:50,086 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:31:50,096 - INFO - Prediction: Legitimate
+2024-12-03 07:31:50,096 - INFO - 127.0.0.1 - - [03/Dec/2024 07:31:50] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:32:32,381 - INFO - URL: https://www.zimbra-updts.x24hr.com/
+2024-12-03 07:32:32,381 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:32:32,381 - INFO - Prediction: Phishing
+2024-12-03 07:32:32,390 - INFO - 127.0.0.1 - - [03/Dec/2024 07:32:32] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:32:53,729 - INFO - URL: http://zimbra3.findoutwheretogo.com/0010/zm/z/imbra/fr
+2024-12-03 07:32:53,729 - INFO - Extracted Features: [1, 0, 1, 1, 1, 1, 0, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:32:53,729 - INFO - Prediction: Phishing
+2024-12-03 07:32:53,729 - INFO - 127.0.0.1 - - [03/Dec/2024 07:32:53] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:33:14,844 - INFO - URL: https://ureqk.com/
+2024-12-03 07:33:14,844 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:33:14,844 - INFO - Prediction: Legitimate
+2024-12-03 07:33:14,844 - INFO - 127.0.0.1 - - [03/Dec/2024 07:33:14] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:33:36,010 - INFO - URL: https://ksj.pages.dev
+2024-12-03 07:33:36,010 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:33:36,010 - INFO - Prediction: Legitimate
+2024-12-03 07:33:36,010 - INFO - 127.0.0.1 - - [03/Dec/2024 07:33:36] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:33:57,504 - INFO - URL: https://southlandsilica.com/ac/WELLSFARGO/index.html
+2024-12-03 07:33:57,504 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:33:57,504 - INFO - Prediction: Legitimate
+2024-12-03 07:33:57,504 - INFO - 127.0.0.1 - - [03/Dec/2024 07:33:57] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:34:19,325 - INFO - URL: https://digikollective.com.au/ad/WELLSFARGO/index.html
+2024-12-03 07:34:19,325 - INFO - Extracted Features: [1, 0, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:34:19,325 - INFO - Prediction: Legitimate
+2024-12-03 07:34:19,335 - INFO - 127.0.0.1 - - [03/Dec/2024 07:34:19] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:34:40,449 - INFO - URL: https://tinky.com.au/wr/
+2024-12-03 07:34:40,449 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:34:40,449 - INFO - Prediction: Legitimate
+2024-12-03 07:34:40,449 - INFO - 127.0.0.1 - - [03/Dec/2024 07:34:40] "POST /predict HTTP/1.1" 200 -
+2024-12-03 07:35:01,726 - INFO - URL: https://om-agw.pages.dev
+2024-12-03 07:35:01,726 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 07:35:01,726 - INFO - Prediction: Legitimate
+2024-12-03 07:35:01,726 - INFO - 127.0.0.1 - - [03/Dec/2024 07:35:01] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:02,893 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-12-03 08:13:02,899 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-03 08:13:02,903 - INFO -  * Restarting with stat
+2024-12-03 08:13:08,262 - WARNING -  * Debugger is active!
+2024-12-03 08:13:08,282 - INFO -  * Debugger PIN: 436-547-908
+2024-12-03 08:13:11,422 - INFO - URL: https://www.google.com
+2024-12-03 08:13:11,422 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:13:11,432 - INFO - Prediction: Legitimate
+2024-12-03 08:13:11,432 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:11] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:12,077 - INFO - URL: https://www.youtube.com
+2024-12-03 08:13:12,077 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 08:13:12,077 - INFO - Prediction: Legitimate
+2024-12-03 08:13:12,087 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:12] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:12,620 - INFO - URL: https://www.facebook.com
+2024-12-03 08:13:12,620 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:13:12,630 - INFO - Prediction: Legitimate
+2024-12-03 08:13:12,630 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:12] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:13,867 - INFO - URL: https://www.baidu.com
+2024-12-03 08:13:13,867 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:13:13,877 - INFO - Prediction: Legitimate
+2024-12-03 08:13:13,877 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:13] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:14,385 - INFO - URL: https://www.wikipedia.org
+2024-12-03 08:13:14,385 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:13:14,385 - INFO - Prediction: Legitimate
+2024-12-03 08:13:14,385 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:14] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:17,075 - INFO - URL: https://www.reddit.com
+2024-12-03 08:13:17,075 - INFO - Extracted Features: [1, 1, -1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:13:17,085 - INFO - Prediction: Legitimate
+2024-12-03 08:13:17,085 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:17] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:18,394 - INFO - URL: https://www.yahoo.com
+2024-12-03 08:13:18,394 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:13:18,404 - INFO - Prediction: Legitimate
+2024-12-03 08:13:18,404 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:18] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:19,102 - INFO - URL: https://www.thenextweb.com
+2024-12-03 08:13:19,102 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 08:13:19,112 - INFO - Prediction: Legitimate
+2024-12-03 08:13:19,112 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:19] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:19,803 - INFO - URL: https://www.qq.com
+2024-12-03 08:13:19,803 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 08:13:19,807 - INFO - Prediction: Legitimate
+2024-12-03 08:13:19,810 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:19] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:20,243 - INFO - URL: https://www.amazon.com
+2024-12-03 08:13:20,243 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:13:20,253 - INFO - Prediction: Legitimate
+2024-12-03 08:13:20,253 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:20] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:20,867 - INFO - URL: https://www.taobao.com
+2024-12-03 08:13:20,867 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:13:20,872 - INFO - Prediction: Legitimate
+2024-12-03 08:13:20,876 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:20] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:21,854 - INFO - URL: https://www.twitter.com
+2024-12-03 08:13:21,854 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 08:13:21,854 - INFO - Prediction: Legitimate
+2024-12-03 08:13:21,864 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:21] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:22,630 - INFO - URL: https://www.tmall.com
+2024-12-03 08:13:22,630 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:13:22,640 - INFO - Prediction: Legitimate
+2024-12-03 08:13:22,640 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:22] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:24,243 - INFO - URL: https://www.indianexpress.com
+2024-12-03 08:13:24,243 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:13:24,243 - INFO - Prediction: Legitimate
+2024-12-03 08:13:24,253 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:24] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:25,190 - INFO - URL: https://www.bestblackhatforum.com
+2024-12-03 08:13:25,190 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:13:25,200 - INFO - Prediction: Legitimate
+2024-12-03 08:13:25,200 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:25] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:26,084 - INFO - URL: https://www.live.com
+2024-12-03 08:13:26,084 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-12-03 08:13:26,084 - INFO - Prediction: Legitimate
+2024-12-03 08:13:26,094 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:26] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:26,760 - INFO - URL: https://www.instagram.com
+2024-12-03 08:13:26,760 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 08:13:26,760 - INFO - Prediction: Legitimate
+2024-12-03 08:13:26,770 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:26] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:27,307 - INFO - URL: https://www.sohu.com
+2024-12-03 08:13:27,307 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 08:13:27,307 - INFO - Prediction: Legitimate
+2024-12-03 08:13:27,317 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:27] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:27,918 - INFO - URL: https://www.sina.com.cn
+2024-12-03 08:13:27,918 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:13:27,918 - INFO - Prediction: Legitimate
+2024-12-03 08:13:27,928 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:27] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:29,695 - INFO - URL: https://www.jd.com
+2024-12-03 08:13:29,695 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:13:29,695 - INFO - Prediction: Legitimate
+2024-12-03 08:13:29,705 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:29] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:32,406 - INFO - URL: https://www.weibo.com
+2024-12-03 08:13:32,406 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 08:13:32,416 - INFO - Prediction: Legitimate
+2024-12-03 08:13:32,426 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:32] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:32,885 - INFO - URL: https://www.thenextweb.com
+2024-12-03 08:13:32,885 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 08:13:32,896 - INFO - Prediction: Legitimate
+2024-12-03 08:13:32,896 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:32] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:35,884 - INFO - URL: https://www.//searchengineland.com
+2024-12-03 08:13:35,884 - INFO - Extracted Features: [1, 1, 1, 1, -1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:13:35,884 - INFO - Prediction: Legitimate
+2024-12-03 08:13:35,894 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:35] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:36,416 - INFO - URL: http://senarai-bantuan-tunai.1p-ly.com/gov/
+2024-12-03 08:13:36,416 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:13:36,426 - INFO - Prediction: Phishing
+2024-12-03 08:13:36,426 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:36] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:36,684 - INFO - URL: https://bingkas-programbantuan-ewallet2024.shoudrh...
+2024-12-03 08:13:36,684 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:13:36,684 - INFO - Prediction: Phishing
+2024-12-03 08:13:36,684 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:36] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:37,940 - INFO - URL: https://att-109843-102557.weeblysite.com/
+2024-12-03 08:13:37,940 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 08:13:37,950 - INFO - Prediction: Phishing
+2024-12-03 08:13:37,950 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:37] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:38,745 - INFO - URL: https://binance.support0062.com/
+2024-12-03 08:13:38,754 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:13:38,754 - INFO - Prediction: Legitimate
+2024-12-03 08:13:38,754 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:38] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:39,613 - INFO - URL: https://swiss-pass-sbb-konto.com/
+2024-12-03 08:13:39,613 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 08:13:39,613 - INFO - Prediction: Phishing
+2024-12-03 08:13:39,623 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:39] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:39,933 - INFO - URL: https://345689090rt67ue4t3454svdf04b8fd5ab427b1be5e7b51d9d812.weeblysi...
+2024-12-03 08:13:39,933 - INFO - Extracted Features: [1, 0, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:13:39,934 - INFO - Prediction: Legitimate
+2024-12-03 08:13:39,934 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:39] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:13:40,941 - INFO - URL: https://att-maildttfl-home.weeblysite.com/
+2024-12-03 08:13:40,941 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-12-03 08:13:40,951 - INFO - Prediction: Phishing
+2024-12-03 08:13:40,951 - INFO - 127.0.0.1 - - [03/Dec/2024 08:13:40] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:14:02,561 - INFO - URL: https://www.zimbra-updts.x24hr.com/
+2024-12-03 08:14:02,561 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:14:02,561 - INFO - Prediction: Phishing
+2024-12-03 08:14:02,571 - INFO - 127.0.0.1 - - [03/Dec/2024 08:14:02] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:14:03,086 - INFO - URL: http://zimbra3.findoutwheretogo.com/0010/zm/z/imbra/fr
+2024-12-03 08:14:03,086 - INFO - Extracted Features: [1, 0, 1, 1, 1, 1, 0, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:14:03,097 - INFO - Prediction: Phishing
+2024-12-03 08:14:03,097 - INFO - 127.0.0.1 - - [03/Dec/2024 08:14:03] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:14:03,742 - INFO - URL: https://iwuqoqpa.weeblysite.com/
+2024-12-03 08:14:03,742 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 08:14:03,752 - INFO - Prediction: Legitimate
+2024-12-03 08:14:03,752 - INFO - 127.0.0.1 - - [03/Dec/2024 08:14:03] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:14:04,377 - INFO - URL: https://pub-2de5d85f3f6c4bf2898608cbde033af3.r2.dev/AT%26TYA.html...
+2024-12-03 08:14:04,377 - INFO - Extracted Features: [1, 0, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:14:04,377 - INFO - Prediction: Phishing
+2024-12-03 08:14:04,377 - INFO - 127.0.0.1 - - [03/Dec/2024 08:14:04] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:14:04,831 - INFO - URL: https://fsyuwsuy.temporary-demo.site/
+2024-12-03 08:14:04,841 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:14:04,843 - INFO - Prediction: Legitimate
+2024-12-03 08:14:04,847 - INFO - 127.0.0.1 - - [03/Dec/2024 08:14:04] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:14:05,358 - INFO - URL: https://bingkasprogrambantuan2024.shoudrhman.bar/log-masuk.php...
+2024-12-03 08:14:05,358 - INFO - Extracted Features: [1, 0, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:14:05,358 - INFO - Prediction: Legitimate
+2024-12-03 08:14:05,358 - INFO - 127.0.0.1 - - [03/Dec/2024 08:14:05] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:14:06,251 - INFO - URL: https://currently-att-12-02-2024.weeblysite.com/...
+2024-12-03 08:14:06,261 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-12-03 08:14:06,261 - INFO - Prediction: Phishing
+2024-12-03 08:14:06,261 - INFO - 127.0.0.1 - - [03/Dec/2024 08:14:06] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:14:06,728 - INFO - URL: https://mqdattnetttt.mystrikingly.com/
+2024-12-03 08:14:06,728 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 08:14:06,728 - INFO - Prediction: Legitimate
+2024-12-03 08:14:06,738 - INFO - 127.0.0.1 - - [03/Dec/2024 08:14:06] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:14:07,228 - INFO - URL: http://senarai-bantuan-tunai.1p-ly.com/gov/
+2024-12-03 08:14:07,228 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:14:07,228 - INFO - Prediction: Phishing
+2024-12-03 08:14:07,238 - INFO - 127.0.0.1 - - [03/Dec/2024 08:14:07] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:14:08,258 - INFO - URL: https://attcom-108448.weeblysite.com/
+2024-12-03 08:14:08,258 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 08:14:08,258 - INFO - Prediction: Phishing
+2024-12-03 08:14:08,268 - INFO - 127.0.0.1 - - [03/Dec/2024 08:14:08] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:14:08,621 - INFO - URL: https://purduee-cu.org/log/s/a/session_index
+2024-12-03 08:14:08,621 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:14:08,621 - INFO - Prediction: Legitimate
+2024-12-03 08:14:08,621 - INFO - 127.0.0.1 - - [03/Dec/2024 08:14:08] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:14:09,097 - INFO - URL: https://fsyuwsuy.temporary-demo.site/
+2024-12-03 08:14:09,098 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:14:09,098 - INFO - Prediction: Legitimate
+2024-12-03 08:14:09,098 - INFO - 127.0.0.1 - - [03/Dec/2024 08:14:09] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:14:10,081 - INFO - URL: https://currently-att-12-02-2024.weeblysite.com/...
+2024-12-03 08:14:10,081 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-12-03 08:14:10,081 - INFO - Prediction: Phishing
+2024-12-03 08:14:10,081 - INFO - 127.0.0.1 - - [03/Dec/2024 08:14:10] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:14:12,600 - INFO - URL: https://ln.run/ahMZ1
+2024-12-03 08:14:12,600 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-03 08:14:12,610 - INFO - Prediction: Legitimate
+2024-12-03 08:14:12,620 - INFO - 127.0.0.1 - - [03/Dec/2024 08:14:12] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:14:13,459 - INFO - URL: https://cgd-secpt.com/login.php
+2024-12-03 08:14:13,459 - INFO - Extracted Features: [1, 1, -1, 1, 1, -1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:14:13,459 - INFO - Prediction: Legitimate
+2024-12-03 08:14:13,459 - INFO - 127.0.0.1 - - [03/Dec/2024 08:14:13] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:14:13,892 - INFO - URL: https://cgd-secpt.com
+2024-12-03 08:14:13,892 - INFO - Extracted Features: [1, 1, -1, 1, 1, -1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-03 08:14:13,892 - INFO - Prediction: Legitimate
+2024-12-03 08:14:13,892 - INFO - 127.0.0.1 - - [03/Dec/2024 08:14:13] "POST /predict HTTP/1.1" 200 -
+2024-12-03 08:15:05,047 - INFO -  * Detected change in 'C:\\Users\\mukth\\comp898_capstone_project\\Phishing-detector\\testing\\test_urls.py', reloading
+2024-12-03 08:15:05,408 - INFO -  * Restarting with stat
+2024-12-05 12:45:54,432 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-12-05 12:45:54,432 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-05 12:45:54,438 - INFO -  * Restarting with stat
+2024-12-05 12:46:03,527 - WARNING -  * Debugger is active!
+2024-12-05 12:46:03,562 - INFO -  * Debugger PIN: 436-547-908
+2024-12-05 12:46:37,285 - WARNING - Invalid URL format: chrome://newtab/
+2024-12-05 12:46:37,288 - INFO - 127.0.0.1 - - [05/Dec/2024 12:46:37] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-12-05 12:47:00,767 - WARNING - Invalid URL format: chrome://newtab/
+2024-12-05 12:47:00,768 - INFO - 127.0.0.1 - - [05/Dec/2024 12:47:00] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-12-05 12:47:05,564 - INFO - URL: https://www.google.com/
+2024-12-05 12:47:05,564 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-05 12:47:05,584 - INFO - Prediction: Legitimate
+2024-12-05 12:47:05,591 - INFO - 127.0.0.1 - - [05/Dec/2024 12:47:05] "POST /predict HTTP/1.1" 200 -
+2024-12-05 12:47:10,461 - INFO - URL: https://www.google.com/
+2024-12-05 12:47:10,462 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-05 12:47:10,473 - INFO - Prediction: Legitimate
+2024-12-05 12:47:10,483 - INFO - 127.0.0.1 - - [05/Dec/2024 12:47:10] "POST /predict HTTP/1.1" 200 -
+2024-12-05 12:48:53,879 - INFO - URL: https://usnh-sso.prd.mykronos.com/
+2024-12-05 12:48:53,880 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-05 12:48:53,886 - INFO - Prediction: Phishing
+2024-12-05 12:48:53,893 - INFO - 127.0.0.1 - - [05/Dec/2024 12:48:53] "POST /predict HTTP/1.1" 200 -
+2024-12-05 12:48:54,107 - INFO - URL: https://ath05.prd.mykronos.com/authn/XUI/?realm=usnh_prd_02&service=4637CustomerIDPChain&goto=https%3A%2F%2Fusnh-sso.prd.mykronos.com%3A443%2F#login/
+2024-12-05 12:48:54,107 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-05 12:48:54,114 - INFO - Prediction: Phishing
+2024-12-05 12:48:54,121 - INFO - 127.0.0.1 - - [05/Dec/2024 12:48:54] "POST /predict HTTP/1.1" 200 -
+2024-12-05 12:48:57,194 - INFO - URL: https://login.microsoftonline.com/d6241893-512d-46dc-8d2b-be47e25f5666/saml2
+2024-12-05 12:48:57,195 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-05 12:48:57,201 - INFO - Prediction: Legitimate
+2024-12-05 12:48:57,209 - INFO - 127.0.0.1 - - [05/Dec/2024 12:48:57] "POST /predict HTTP/1.1" 200 -
+2024-12-05 12:48:57,254 - INFO - URL: https://ath05.prd.mykronos.com/authn/?realm=/usnh_prd_02&service=4637CustomerIDPChain&goto=https%3A%2F%2Fusnh-sso.prd.mykronos.com%3A443%2F&authIndexType=service&authIndexValue=4637CustomerIDPChain&responsekey=d2e83083-67e1-4ebe-a601-fb046feac1b1&error=false
+2024-12-05 12:48:57,255 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-05 12:48:57,261 - INFO - Prediction: Legitimate
+2024-12-05 12:48:57,270 - INFO - 127.0.0.1 - - [05/Dec/2024 12:48:57] "POST /predict HTTP/1.1" 200 -
+2024-12-05 12:48:57,881 - INFO - URL: https://ath05.prd.mykronos.com/authn/XUI/?realm=/usnh_prd_02&service=4637CustomerIDPChain&goto=https%3A%2F%2Fusnh-sso.prd.mykronos.com%3A443%2F&authIndexType=service&authIndexValue=4637CustomerIDPChain&responsekey=d2e83083-67e1-4ebe-a601-fb046feac1b1&error=false#login/
+2024-12-05 12:48:57,882 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-05 12:48:57,885 - INFO - Prediction: Phishing
+2024-12-05 12:48:57,889 - INFO - 127.0.0.1 - - [05/Dec/2024 12:48:57] "POST /predict HTTP/1.1" 200 -
+2024-12-05 12:49:00,166 - INFO - URL: https://usnh-sso.prd.mykronos.com/
+2024-12-05 12:49:00,166 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-05 12:49:00,172 - INFO - Prediction: Phishing
+2024-12-05 12:49:00,178 - INFO - 127.0.0.1 - - [05/Dec/2024 12:49:00] "POST /predict HTTP/1.1" 200 -
+2024-12-05 12:49:04,869 - INFO - URL: https://usnh-sso.prd.mykronos.com/wfd/home
+2024-12-05 12:49:04,869 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-05 12:49:04,875 - INFO - Prediction: Phishing
+2024-12-05 12:49:04,881 - INFO - 127.0.0.1 - - [05/Dec/2024 12:49:04] "POST /predict HTTP/1.1" 200 -
+2024-12-05 12:49:19,891 - INFO - URL: https://usnh-sso.prd.mykronos.com/wfd/home
+2024-12-05 12:49:19,892 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-05 12:49:19,895 - INFO - Prediction: Phishing
+2024-12-05 12:49:19,902 - INFO - 127.0.0.1 - - [05/Dec/2024 12:49:19] "POST /predict HTTP/1.1" 200 -
+2024-12-05 12:50:03,897 - INFO - URL: https://docs.google.com/presentation/d/1c1Mi5KhzuegRROVlLDC8V_2DQ9FTbImFgg-esZFxry4/edit#slide=id.p26
+2024-12-05 12:50:03,897 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-05 12:50:03,902 - INFO - Prediction: Legitimate
+2024-12-05 12:50:03,906 - INFO - 127.0.0.1 - - [05/Dec/2024 12:50:03] "POST /predict HTTP/1.1" 200 -
+2024-12-05 12:51:17,897 - WARNING - Invalid URL format: chrome://newtab/
+2024-12-05 12:51:17,898 - INFO - 127.0.0.1 - - [05/Dec/2024 12:51:17] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-12-05 12:51:25,097 - WARNING - Invalid URL format: chrome://newtab/
+2024-12-05 12:51:25,098 - INFO - 127.0.0.1 - - [05/Dec/2024 12:51:25] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-12-05 12:51:32,817 - INFO - URL: https://login.microsoftonline.com/d6241893-512d-46dc-8d2b-be47e25f5666/saml2?SAMLRequest=fZJPTxsxEMXvfIqV795de%2F%2BBlURKiapGoiUigQMX5NgTYmnXTj12W749zi5V6QGu43nzm%2FfGM5RDfxLLGI72Dn5GwJD9GXqLYnyYk%2BitcBINCisHQBGU2C6%2F3wiel%2BLkXXDK9eSd5HOFRAQfjLMkW6%2Fm5KmpeKf4nlPgTNEaWEevmGK0bKumq7TuWslI9gAek2ZO0ogkRIywthikDalU8poyTstmxzrRMFGVjyRbJR%2FGyjCqjiGcUBRF756NzQejvEN3CM72xkKu3FDoltfs8qqiDeOa1q1W9FLzPd1D3QFvDk3btsXZHSfZ8q%2BFa2cxDuC34H8ZBfd3N%2F9Qw4ty0SNgHu0xBx0n%2BDiDZJu33L4Yq419%2Fjyy%2FdSE4ttut6Gb2%2B2OLGbnOWIMwi%2FOzIQ8g0xKxUcVop98jSvPivfds%2BngPxJnvdq43qiX7Kvzgwwfr8FyNlaMpoexVUSLJ1DmYECnRPre%2Fb72IAPMSeIDKRYT9P%2BPtbh4BQ%3D%3D&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=M7j7w787Xl%2FgqryfFU4%2FjRtkvncps%2F1MMMJYpEMHggUU17vWFhzLwn8lMpBkloHw15gmmYCx0HBIBWF12HZJaOy8Fa8bobLKkDz4yKdxnJon4B%2F7jAfdJM5L2AttvQmQhpzC8TxGcreysHMem2WFci%2BtKzt%2FIzNwLdEqMTn3HsWk%2BFxsYmMHeiXI43unTYl8My32Bk3SDaoeN%2BSAi%2FcouHySKoljwT7%2BqNyS9VucfrfFIkpIEjJMTG%2BMF6zkpCUw5wZFd9%2B5tuhFzJuhyY5HgIvXUKBd6w7zvy9n0zUj0pB8iUNmgqZJ1oTdiRTSPztaOF51Uspg8kjudG96G0UEUQ%3D%3D
+2024-12-05 12:51:32,818 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-12-05 12:51:32,824 - INFO - Prediction: Legitimate
+2024-12-05 12:51:32,829 - INFO - 127.0.0.1 - - [05/Dec/2024 12:51:32] "POST /predict HTTP/1.1" 200 -
+2024-12-05 12:51:34,901 - INFO - URL: https://mycourses.unh.edu/courses/113452
+2024-12-05 12:51:34,901 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-12-05 12:51:34,905 - INFO - Prediction: Legitimate
+2024-12-05 12:51:34,911 - INFO - 127.0.0.1 - - [05/Dec/2024 12:51:34] "POST /predict HTTP/1.1" 200 -
+2024-12-05 12:51:39,804 - INFO - URL: https://mycourses.unh.edu/courses/113452
+2024-12-05 12:51:39,804 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-12-05 12:51:39,808 - INFO - Prediction: Legitimate
+2024-12-05 12:51:39,812 - INFO - 127.0.0.1 - - [05/Dec/2024 12:51:39] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:22:28,314 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-12-06 16:22:28,315 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-06 16:22:28,319 - INFO -  * Restarting with stat
+2024-12-06 16:22:33,593 - WARNING -  * Debugger is active!
+2024-12-06 16:22:33,616 - INFO -  * Debugger PIN: 436-547-908
+2024-12-06 16:22:49,114 - WARNING - Invalid URL format: chrome://extensions/
+2024-12-06 16:22:49,117 - INFO - 127.0.0.1 - - [06/Dec/2024 16:22:49] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-12-06 16:23:24,312 - WARNING - Invalid URL format: chrome://newtab/
+2024-12-06 16:23:24,315 - INFO - 127.0.0.1 - - [06/Dec/2024 16:23:24] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-12-06 16:23:36,133 - INFO - URL: https://starrowhead.info/a/s/a/session_index.php...
+2024-12-06 16:23:36,133 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-06 16:23:36,147 - INFO - Prediction: Legitimate
+2024-12-06 16:23:36,149 - INFO - 127.0.0.1 - - [06/Dec/2024 16:23:36] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:23:40,346 - INFO - URL: https://starrowhead.info/a/s/a/session_index.php...
+2024-12-06 16:23:40,346 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-06 16:23:40,352 - INFO - Prediction: Legitimate
+2024-12-06 16:23:40,353 - INFO - 127.0.0.1 - - [06/Dec/2024 16:23:40] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:23:50,285 - INFO - URL: https://phishtank.org/phish_archive.php?page=1
+2024-12-06 16:23:50,286 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-06 16:23:50,289 - INFO - Prediction: Legitimate
+2024-12-06 16:23:50,291 - INFO - 127.0.0.1 - - [06/Dec/2024 16:23:50] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:23:50,342 - INFO - URL: https://phishtank.org/phish_archive.php?page=1&__cf_chl_rt_tk=WiA9CJC9VXXy_5zuP4HBTG75_LHHVptnkkiSYPjRWZ4-1733520228-1.0.1.1-om29ZMBqw1z9BBuYbIzBMeBRzGQh.3UeUG2tDx_muh8
+2024-12-06 16:23:50,342 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-06 16:23:50,348 - INFO - Prediction: Legitimate
+2024-12-06 16:23:50,350 - INFO - 127.0.0.1 - - [06/Dec/2024 16:23:50] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:23:50,586 - INFO - URL: https://phishtank.org/phish_archive.php?page=1
+2024-12-06 16:23:50,586 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-06 16:23:50,591 - INFO - Prediction: Legitimate
+2024-12-06 16:23:50,593 - INFO - 127.0.0.1 - - [06/Dec/2024 16:23:50] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:23:53,654 - INFO - URL: https://phishtank.org/phish_archive.php?page=1&__cf_chl_tk=WiA9CJC9VXXy_5zuP4HBTG75_LHHVptnkkiSYPjRWZ4-1733520228-1.0.1.1-om29ZMBqw1z9BBuYbIzBMeBRzGQh.3UeUG2tDx_muh8
+2024-12-06 16:23:53,654 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-06 16:23:53,661 - INFO - Prediction: Legitimate
+2024-12-06 16:23:53,663 - INFO - 127.0.0.1 - - [06/Dec/2024 16:23:53] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:23:54,261 - INFO - URL: https://phishtank.org/phish_archive.php?page=1
+2024-12-06 16:23:54,261 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-06 16:23:54,267 - INFO - Prediction: Legitimate
+2024-12-06 16:23:54,269 - INFO - 127.0.0.1 - - [06/Dec/2024 16:23:54] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:24:04,559 - WARNING - Invalid URL format: chrome://newtab/
+2024-12-06 16:24:04,561 - INFO - 127.0.0.1 - - [06/Dec/2024 16:24:04] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-12-06 16:24:09,217 - INFO - URL: https://phantomwalletexsation.webflow.io/
+2024-12-06 16:24:09,217 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-12-06 16:24:09,221 - INFO - Prediction: Legitimate
+2024-12-06 16:24:09,226 - INFO - 127.0.0.1 - - [06/Dec/2024 16:24:09] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:24:15,963 - INFO - URL: https://phantomwalletexsation.webflow.io/
+2024-12-06 16:24:15,964 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-12-06 16:24:15,967 - INFO - Prediction: Legitimate
+2024-12-06 16:24:15,971 - INFO - 127.0.0.1 - - [06/Dec/2024 16:24:15] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:24:32,052 - INFO - URL: https://phishtank.org/phish_archive.php?page=2
+2024-12-06 16:24:32,052 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-06 16:24:32,056 - INFO - Prediction: Legitimate
+2024-12-06 16:24:32,057 - INFO - 127.0.0.1 - - [06/Dec/2024 16:24:32] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:24:40,004 - WARNING - Invalid URL format: chrome://newtab/
+2024-12-06 16:24:40,005 - INFO - 127.0.0.1 - - [06/Dec/2024 16:24:40] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-12-06 16:24:44,652 - INFO - URL: https://docs.google.com/presentation/d/e/2PACX-1vROHWAnLiRn15fVrku7Krg.../
+2024-12-06 16:24:44,652 - INFO - Extracted Features: [1, 0, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-12-06 16:24:44,660 - INFO - Prediction: Legitimate
+2024-12-06 16:24:44,667 - INFO - 127.0.0.1 - - [06/Dec/2024 16:24:44] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:24:49,049 - INFO - URL: https://docs.google.com/presentation/d/e/2PACX-1vROHWAnLiRn15fVrku7Krg.../
+2024-12-06 16:24:49,050 - INFO - Extracted Features: [1, 0, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-12-06 16:24:49,052 - INFO - Prediction: Legitimate
+2024-12-06 16:24:49,057 - INFO - 127.0.0.1 - - [06/Dec/2024 16:24:49] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:25:51,732 - WARNING - Invalid URL format: chrome://newtab/
+2024-12-06 16:25:51,733 - INFO - 127.0.0.1 - - [06/Dec/2024 16:25:51] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-12-06 16:25:57,150 - INFO - URL: https://allegrolokalnie.p0v9y01ca.buzz/aukcja/312314c16d826-2511-41d7-...
+2024-12-06 16:25:57,150 - INFO - Extracted Features: [1, 0, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-06 16:25:57,154 - INFO - Prediction: Legitimate
+2024-12-06 16:25:57,155 - INFO - 127.0.0.1 - - [06/Dec/2024 16:25:57] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:26:01,958 - INFO - URL: https://allegrolokalnie.p0v9y01ca.buzz/aukcja/312314c16d826-2511-41d7-...
+2024-12-06 16:26:01,958 - INFO - Extracted Features: [1, 0, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-06 16:26:01,963 - INFO - Prediction: Legitimate
+2024-12-06 16:26:01,964 - INFO - 127.0.0.1 - - [06/Dec/2024 16:26:01] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:26:19,019 - WARNING - Invalid URL format: chrome://newtab/
+2024-12-06 16:26:19,020 - INFO - 127.0.0.1 - - [06/Dec/2024 16:26:19] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-12-06 16:26:24,592 - INFO - URL: https://login.microsoftonline.com/d6241893-512d-46dc-8d2b-be47e25f5666/saml2?SAMLRequest=fZJPT%2BMwEMXv%2Byki350%2FxkmD1VYqVGgrAVvRwoELcpwJtZTYXY%2FNLt9%2B3QQEHJbreN785r3xHOXQH8Uq%2BIO5g98B0Cd%2Fh96gGB8WJDgjrESNwsgBUHgldquba8HSXByd9VbZnnySfK%2BQiOC8toYkm%2FWCPPGS8brLG1qws3PKZzynEroZlWVdNLxuKpA5SR7AYdQsSBwRhYgBNga9ND6WcsajmubVnhWCVYKxR5Ksow9tpB9VB%2B%2BPKLKst8%2FapINWzqLtvDW9NpAqO2RtxXhRn5%2FRsmAt5VWraN2yhjbAZ8DKrqyqKju5YyRZvVu4tAbDAG4H7kUruL%2B7%2FkANr8oGh4BpMIcU2jDBxxkk2b7ldqFNq83z95E1UxOKn%2Fv9lm5%2F7fZkOT%2FNEWMQbnliRuQJpGMqLigf3ORrXHmefe6eTwe%2FjZzNemt7rV6TK%2BsG6f%2B%2FRpEWY0W3tBtbRTB4BKU7DW1MpO%2Ftn0sH0sOCRD6QbDlBv36s5Y9%2F&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=p1xaTeKuAf%2B4m3TEHGnkL4vZLxy%2B5IqiEztRKT9HZviDJEzaVA8HvGu0VUfUB3THHQGn2tDqiSlZi0nS9je4hGnuJM48QFAwwwDz8KK4kDiPJ34vD733IkuoeqLg2iNUXejx%2FgXktRc9SBhDzlhnZFbh%2FXFs%2BVQtXsMoNZrALGdnBZMBwI1jTQ%2FdZCSmHhvg1uAXHLcvO9D%2FJo7%2BcZ8kVSwKGRcsm0kyXhzIN09kaj%2BC2uX4curW8SD535ld039f%2BMG2tMDFNOA4D7wbKd4rAjRy3%2BWw3WuUxZ3VAdGb6%2FP827LORPIeNfrTSiyBxxlbB%2BgfQw3Fi%2BjHBLk4Ssez0w%3D%3D
+2024-12-06 16:26:24,593 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-12-06 16:26:24,599 - INFO - Prediction: Legitimate
+2024-12-06 16:26:24,605 - INFO - 127.0.0.1 - - [06/Dec/2024 16:26:24] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:26:25,147 - INFO - URL: https://login.microsoftonline.com/d6241893-512d-46dc-8d2b-be47e25f5666/saml2?SAMLRequest=fZJPT%2BMwEMXv%2Byki350%2FxkmD1VYqVGgrAVvRwoELcpwJtZTYXY%2FNLt9%2B3QQEHJbreN785r3xHOXQH8Uq%2BIO5g98B0Cd%2Fh96gGB8WJDgjrESNwsgBUHgldquba8HSXByd9VbZnnySfK%2BQiOC8toYkm%2FWCPPGS8brLG1qws3PKZzynEroZlWVdNLxuKpA5SR7AYdQsSBwRhYgBNga9ND6WcsajmubVnhWCVYKxR5Ksow9tpB9VB%2B%2BPKLKst8%2FapINWzqLtvDW9NpAqO2RtxXhRn5%2FRsmAt5VWraN2yhjbAZ8DKrqyqKju5YyRZvVu4tAbDAG4H7kUruL%2B7%2FkANr8oGh4BpMIcU2jDBxxkk2b7ldqFNq83z95E1UxOKn%2Fv9lm5%2F7fZkOT%2FNEWMQbnliRuQJpGMqLigf3ORrXHmefe6eTwe%2FjZzNemt7rV6TK%2BsG6f%2B%2FRpEWY0W3tBtbRTB4BKU7DW1MpO%2Ftn0sH0sOCRD6QbDlBv36s5Y9%2F&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=p1xaTeKuAf%2B4m3TEHGnkL4vZLxy%2B5IqiEztRKT9HZviDJEzaVA8HvGu0VUfUB3THHQGn2tDqiSlZi0nS9je4hGnuJM48QFAwwwDz8KK4kDiPJ34vD733IkuoeqLg2iNUXejx%2FgXktRc9SBhDzlhnZFbh%2FXFs%2BVQtXsMoNZrALGdnBZMBwI1jTQ%2FdZCSmHhvg1uAXHLcvO9D%2FJo7%2BcZ8kVSwKGRcsm0kyXhzIN09kaj%2BC2uX4curW8SD535ld039f%2BMG2tMDFNOA4D7wbKd4rAjRy3%2BWw3WuUxZ3VAdGb6%2FP827LORPIeNfrTSiyBxxlbB%2BgfQw3Fi%2BjHBLk4Ssez0w%3D%3D&sso_reload=true
+2024-12-06 16:26:25,147 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-12-06 16:26:25,150 - INFO - Prediction: Legitimate
+2024-12-06 16:26:25,155 - INFO - 127.0.0.1 - - [06/Dec/2024 16:26:25] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:26:26,949 - INFO - URL: https://mycourses.unh.edu/courses/113452
+2024-12-06 16:26:26,949 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-12-06 16:26:26,956 - INFO - Prediction: Legitimate
+2024-12-06 16:26:26,963 - INFO - 127.0.0.1 - - [06/Dec/2024 16:26:26] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:26:32,067 - INFO - URL: https://mycourses.unh.edu/courses/113452
+2024-12-06 16:26:32,067 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-12-06 16:26:32,072 - INFO - Prediction: Legitimate
+2024-12-06 16:26:32,078 - INFO - 127.0.0.1 - - [06/Dec/2024 16:26:32] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:26:36,455 - WARNING - Invalid URL format: chrome://newtab/
+2024-12-06 16:26:36,455 - INFO - 127.0.0.1 - - [06/Dec/2024 16:26:36] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-12-06 16:28:11,104 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-12-06 16:28:11,105 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-06 16:28:11,109 - INFO -  * Restarting with stat
+2024-12-06 16:28:17,066 - WARNING -  * Debugger is active!
+2024-12-06 16:28:17,092 - INFO -  * Debugger PIN: 436-547-908
+2024-12-06 16:28:22,749 - INFO - URL: https://gn33.fr/5e509
+2024-12-06 16:28:22,750 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-06 16:28:22,754 - INFO - Prediction: Legitimate
+2024-12-06 16:28:22,755 - INFO - 127.0.0.1 - - [06/Dec/2024 16:28:22] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:29:03,404 - INFO - URL: https://127.0.0.1
+2024-12-06 16:29:03,404 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-06 16:29:03,411 - INFO - Prediction: Legitimate
+2024-12-06 16:29:03,412 - INFO - 127.0.0.1 - - [06/Dec/2024 16:29:03] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:30:25,008 - INFO - URL: https://phishtank.org/phish_archive.php?page=3
+2024-12-06 16:30:25,008 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-06 16:30:25,011 - INFO - Prediction: Legitimate
+2024-12-06 16:30:25,013 - INFO - 127.0.0.1 - - [06/Dec/2024 16:30:25] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:30:36,309 - WARNING - Invalid URL format: chrome://newtab/
+2024-12-06 16:30:36,310 - INFO - 127.0.0.1 - - [06/Dec/2024 16:30:36] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-12-06 16:30:40,390 - INFO - URL: https://ykhamlichi.serv00.net/aa/auth/log.php
+2024-12-06 16:30:40,391 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-06 16:30:40,394 - INFO - Prediction: Legitimate
+2024-12-06 16:30:40,396 - INFO - 127.0.0.1 - - [06/Dec/2024 16:30:40] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:30:44,880 - INFO - URL: https://ykhamlichi.serv00.net/aa/auth/log.php
+2024-12-06 16:30:44,880 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-06 16:30:44,886 - INFO - Prediction: Legitimate
+2024-12-06 16:30:44,887 - INFO - 127.0.0.1 - - [06/Dec/2024 16:30:44] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:32:08,952 - INFO - URL: http://ykhamlichi.serv00.net/aa/auth/log.php
+2024-12-06 16:32:08,952 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, -1, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-06 16:32:08,955 - INFO - Prediction: Phishing
+2024-12-06 16:32:08,956 - INFO - 127.0.0.1 - - [06/Dec/2024 16:32:08] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:46:11,590 - INFO - URL: https://www.kaggle.com/datasets/eswarchandt/phishing-website-detector
+2024-12-06 16:46:11,591 - INFO - Extracted Features: [1, 0, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-06 16:46:11,597 - INFO - Prediction: Legitimate
+2024-12-06 16:46:11,602 - INFO - 127.0.0.1 - - [06/Dec/2024 16:46:11] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:46:33,222 - WARNING - Invalid URL format: chrome://newtab/
+2024-12-06 16:46:33,226 - INFO - 127.0.0.1 - - [06/Dec/2024 16:46:33] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-12-06 16:47:34,873 - INFO - URL: https://www.google.com/search?q=uscis+login&rlz=1C1CHBF_enIN915IN915&oq=uscis+login&gs_lcrp=EgZjaHJvbWUyDggAEEUYJxg5GIAEGIoFMgcIARAAGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEJMzU3N2owajE1qAIIsAIB&sourceid=chrome&ie=UTF-8
+2024-12-06 16:47:34,874 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-12-06 16:47:34,879 - INFO - Prediction: Legitimate
+2024-12-06 16:47:34,885 - INFO - 127.0.0.1 - - [06/Dec/2024 16:47:34] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:47:36,174 - INFO - URL: https://www.uscis.gov/
+2024-12-06 16:47:36,174 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-06 16:47:36,177 - INFO - Prediction: Legitimate
+2024-12-06 16:47:36,183 - INFO - 127.0.0.1 - - [06/Dec/2024 16:47:36] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:47:42,042 - INFO - URL: https://www.uscis.gov/link/88483
+2024-12-06 16:47:42,042 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-06 16:47:42,049 - INFO - Prediction: Legitimate
+2024-12-06 16:47:42,053 - INFO - 127.0.0.1 - - [06/Dec/2024 16:47:42] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:47:46,625 - INFO - URL: https://www.uscis.gov/
+2024-12-06 16:47:46,625 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-06 16:47:46,629 - INFO - Prediction: Legitimate
+2024-12-06 16:47:46,636 - INFO - 127.0.0.1 - - [06/Dec/2024 16:47:46] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:47:57,362 - INFO - URL: https://www.uscis.gov/link/88483
+2024-12-06 16:47:57,362 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-06 16:47:57,368 - INFO - Prediction: Legitimate
+2024-12-06 16:47:57,375 - INFO - 127.0.0.1 - - [06/Dec/2024 16:47:57] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:48:02,492 - INFO - URL: https://myaccount.uscis.gov/sign-in
+2024-12-06 16:48:02,492 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-06 16:48:02,498 - INFO - Prediction: Legitimate
+2024-12-06 16:48:02,503 - INFO - 127.0.0.1 - - [06/Dec/2024 16:48:02] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:48:06,873 - INFO - URL: https://myaccount.uscis.gov/auth
+2024-12-06 16:48:06,873 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-06 16:48:06,877 - INFO - Prediction: Legitimate
+2024-12-06 16:48:06,880 - INFO - 127.0.0.1 - - [06/Dec/2024 16:48:06] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:48:09,478 - WARNING - Invalid URL format: chrome://newtab/
+2024-12-06 16:48:09,479 - INFO - 127.0.0.1 - - [06/Dec/2024 16:48:09] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-12-06 16:48:16,651 - INFO - URL: https://mail.google.com/mail/u/0/?tab=rm&ogbl
+2024-12-06 16:48:16,651 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-06 16:48:16,655 - INFO - Prediction: Legitimate
+2024-12-06 16:48:16,661 - INFO - 127.0.0.1 - - [06/Dec/2024 16:48:16] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:48:20,806 - INFO - URL: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
+2024-12-06 16:48:20,806 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-06 16:48:20,810 - INFO - Prediction: Legitimate
+2024-12-06 16:48:20,813 - INFO - 127.0.0.1 - - [06/Dec/2024 16:48:20] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:48:30,530 - INFO - URL: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQXKWlxNtpXSlTvmDqqxkNfpbzk
+2024-12-06 16:48:30,530 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-06 16:48:30,533 - INFO - Prediction: Legitimate
+2024-12-06 16:48:30,537 - INFO - 127.0.0.1 - - [06/Dec/2024 16:48:30] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:48:50,604 - INFO - URL: https://myaccount.uscis.gov/dashboard
+2024-12-06 16:48:50,605 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-06 16:48:50,610 - INFO - Prediction: Legitimate
+2024-12-06 16:48:50,618 - INFO - 127.0.0.1 - - [06/Dec/2024 16:48:50] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:48:51,366 - INFO - URL: https://myaccount.uscis.gov/api/saml/fully_signed_in
+2024-12-06 16:48:51,366 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-06 16:48:51,369 - INFO - Prediction: Legitimate
+2024-12-06 16:48:51,373 - INFO - 127.0.0.1 - - [06/Dec/2024 16:48:51] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:48:53,590 - INFO - URL: https://my.uscis.gov/account/applicant
+2024-12-06 16:48:53,591 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-06 16:48:53,597 - INFO - Prediction: Legitimate
+2024-12-06 16:48:53,600 - INFO - 127.0.0.1 - - [06/Dec/2024 16:48:53] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:49:37,701 - INFO - URL: https://myaccount.uscis.gov/api/saml/logout?SAMLRequest=vVhXb%2BNIEv4rBubBD4JHjJJozAzALIpBYg4vB2ZSjGKmfv2RsmfWnrvb3cMBBxiiu1hVXeGrqmZ%2Fa90ir1%2BFKq76Tglvfdh2T9Tyk5Zul1bl9%2Bek6%2Br2dbstZtf3q77svvatn7Zf42rYunW6XRVs84f88xNHfX%2F%2Bxw6MYB%2F0gRf3EAAvCBSCL64foS%2F%2Bfrdzg8A9HOBgYW3bPuTKtnPL7vszBEDICwi9ADsNAl8R7BVGnecnI2zahxHQV%2BD5aSrysn1d9%2Fv%2B3Dfla%2BW2aftaukXYvnb%2Bq4qLwuvC%2BOq2bdisxn8Uqf9cpm6qrvKr%2FPnHt5X79WFd8%2BMP5z963XdJWHap73bhm%2FtF2LmB27nfth%2BFvwXtq5rGSyD7Jnw3JWjfIrroHMfx6wh%2FrZp4CwEAsAWw7cITtGn85fmXbBhwZVQ9lqRbVuWyaZ7eH6kRwy6pgic8j6sm7ZLiPygGtyCwKn4JJ%2F%2FFB5Hyy%2FP2s2l%2FWxGArIrC0v%2FSJi6E7t4VKWEUNgs1fNIV7vvzl78HgIeo1rhlG1VN0X5e%2FqUxn8IVlkOYV3UYvLQ%2FfXo37e8r%2FDdh%2BvEt9F%2B50s%2F7Nh1CacVM7fph%2B3RpwiidhLRdgPslCCO3z7unB8gev09B%2BzStf%2BlTEfzEYOj%2FV%2FnZfjT%2Bt%2BVbrKg0Xsr0f83dmxbDzfvwBzZ6ecRNGaQONyoe%2Bl7k%2B0E8b2%2FH21hYd%2BnaZXYVwRq5yb4%2FLPoo%2FCD8QsLb8jcA%2FwLcm4Sa0%2BoRmENc4jF9Pup7WjQdPtyXFx3UPNsQ0ojzsz7SaEoj6EilyMgD8rnFc86c7u6Zo3kB2ele10nnlm7VFi7IRCUuzuDudqiOgfLlusGBvMcKPWy0bKOzkaGJGR1pHVKcFN7Vwr3okfyhhQf6VAAljWuKl%2FJ41vUtPJpGzc5SBJCYnjGM22h3D1W6yT30%2Fd0UiFroenWbOhg9I1K4J2mjGEEvwtPZPakgzjbBcKL72BuHodwlaJnSRNvO43lAwsvB8rObtGOxet%2FzDNCMe5eJMiK6AS5vjcapDFxcQ9NYu%2Bd1eVciH6nLoM7ESbRG6drbGHY%2BNunFOFBKfmruJGi5p2ZAMNCXv3%2F%2FFfoPsV7Dz4fzr1RYKIBRS8P6tSDXjhk9WtoPkeM450qSRLaL8ZEj8Jij7UIdnTsuEXF2S7KUxUaAwOWWwSmSSO60IOIZi4M6TSQiaRjixFK4ScSSQeCVRoF6r89IrEAY5Fin3jONPqDoSiTthww5iZHCGqNtnYDHO5IYnJTgPAjMPZbpHZLQHFMC%2FSIHQo1ORRL%2FKefIkDEHbF64ppQsz8FLCSKwlMqDT%2FWyzv07LYs48pP%2FqNCJxtESIVF4yIzAvDxhUeNmkRIB8S65D5qGIw%2Bahj9oIsdWotyOpGxThiyz9Hgy9Dtti8S7%2FYl4MVRUE1Li6MFO7hdo55goIKrxeIofMgI9YbRjEYlfKo93HIsVHJ0Mi7%2BtbaIZx0i5DRuzaymoKCMjhb%2FLjYahA9JJ%2F90P1oAWn1f%2F7iJFP%2Bj4JN4MQ6JUQ%2Bw9K3%2BTm1EqsCRgjaWfoppOol2ooqAPSbU%2Fo5l7FHtnycuSc4K7%2Fp5fmsHxM4nLB3x9T8b88j%2BNz0QJyaYmEEbNGLy58zLyqIPXMTHwKw2fROVIH4gwPjBQCysxesnTqhuFFIdPtE97N571TJUMu20OJFk4ohp76zZRmW4ZrFNZHDh3h2JMTweQnF3ywPOGA4l6A3HG0O6IKODB81U%2BnM7UBjjmTrnbZXYzkwaDHlFvbuiJuSB1BJGFV0R3a1fQFcPdz8zsGO5xHDqEy4duIGXQ5HoHgXM%2BZqiYA7p65GBgNwDcJPegekGkO%2BT3O7kWG%2FpsEVveNYi6PI3ZtmuDrKykPPAnlr8jPbHZoyR3LpYUXOQTgZ%2FPesDwAozEuykhN2N1jEEaC7MW1I9cohpb06%2FkTexbcjtLxua07TQDzLbMyFG4jBMVwlGdRpL4nh6pFTsKcMHl43ZJBoXHZiwS%2FprrgMPlFQ8rTnibczjc1Jf3NEVSi6zSsiTZsrisM8RIE8SSO2rVKWejhNscP9oEIetHEedZnk2A4IjvhBkbXSjrHTbv7A%2B4ECClWrCSWJCRWxBT2yo6SpA4xm71xx53nEwqNvBYJfGpahCgKbMtfBTVRY8JXoVi0TGjpQfbgwfr2FqDJ40bZYAGBBYDL%2FqC41KpnSK%2F2pZSexCSi9ff6niehkADP9XQqsOD7JX3Q6%2FQZ%2FFDLQnsAXurzYVOB0NQGLNXLLyl3Np3cKlj7Cp%2F3j8%2FQ6faK5g51PCMiOOGiGmGkP0Rt23bPSrAm4%2FY1Yfxf4mXSIiP%2FJyW9Ij4hxiNyxvmUb8BLSuWyJgknxuaDOSaUIDoz7qVYeMesFjnWFyvg%2FhSx1m%2F1O%2FVtRb9bHIXisWHinPe%2BeM%2F6pz4UOeEpnOc%2BEn2vcZz%2BYGpaMXEdcWKHY%2B8i5cVabIc9BdYABROBzFK1uTehk%2Ftqs90Fx2GGccxo9QcGyy90v2%2F9kqVG7mfvXLKqWW%2BAK7p1DbELE%2Bs52gGDNhkWGeHaxp3UcHf6urRWwNaZcR4xaGoLPU2PugUPSaUno2TRHGIWLlEUzzwvMaldVhmXPrtv6kTqV9wrGrUousaz2%2B4XuI1r7hb5g35wO%2B%2F2PeoA8sAXBZb%2FakdS2wfNfJpHi46lhisvOqKDXNKvEJecf%2FHXFSn4WI85uxK%2FxRbgRWxZSZv7U%2Bz0lAdyxl%2B2qGx%2BT2g8Gid2UdVpNf5HROyvbTtpD3kVmLHJYrUYHKR7lMZXUkNDx68MkIzsaxvY9tL3FHgK4tqOWacEI2s6emAbKuRle0TXzlcMjgYAdA4gY8jmbS0cY17cRRJQlhy8ovHl5YZIxAyTsXxcvagr5rtsde7GJLWWWYSyAHKxKb8HLypWoCOYskkG9Q1jJubRaxZUo1kqiA8Ccq2xK6xbd%2F94XI7VIFNZne3prn%2BZHV0GfD%2B7uCypZoRg01ygj%2FFN%2BdujyW%2F1NgE8yN8CCjGk8%2BsQZIShrNCjSikWDeQYGRiMtgBNNnAxT%2FHQkdKiBIwhDhZcV9NNzArbJKoN5v9qJfXTqMPQQR5ouQijLjZ9hK7gAxrHLvpxXzD91yM75pb71AdEstVwab1nt7eAplXa%2FUcCSN67KkQSSX%2BLIvHgbvsplDYBBxJx3tfjpxOZUzo3oiS1QbJaGmbUaUPCRkqhd3eiNCSjeTu82MNh8dagCFGbFKAGCANE26on8QK0ehHTK5jckfOGUojKMz1l4Qq8VHe1K7HbXoD3R%2B7XXTmnQvMJsu8YnHKuDEEsvdnFT0hpm5uMdSWVYUjMO9m3smMjrNji4ygZej2zj2SWL%2FHAEWUGJ33cAa5bAbIZ9Pq6uAQyNjpLEm2Z47uxCQM5odnMpr29KmfpMDMrWES8SLHDTnPGjygchgumjhwTTKXosXaPqFOUYR4zaair6AQ8g0C4bZJ78TjvCtkezMER%2FkOIg5%2BPJSeQMDecC1Nxp6wOcW6k7q%2FJSgNI4pwJB0j3sQc44ano1UHGQhaUMEwJ0sEuuKo5qDGL98Ycew1%2FGwK%2FJmH7IMEKNi5MGqxY%2BjL4%2BD9%2B2H6F%2FHtuL39eBD%2FdFB%2Fv3hYPzM56olZvvPc7s%2FvLFZKGrxED9bXer0rabuw7J5%2FBEEAArsd8IL50f4FOQDQCxZ68MvBD%2BHQi1AEDpD3u4q3%2FX68rX67CPrxTw%3D%3D
+2024-12-06 16:49:37,702 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-06 16:49:37,708 - INFO - Prediction: Legitimate
+2024-12-06 16:49:37,715 - INFO - 127.0.0.1 - - [06/Dec/2024 16:49:37] "POST /predict HTTP/1.1" 200 -
+2024-12-06 16:49:38,457 - INFO - URL: https://my.uscis.gov/
+2024-12-06 16:49:38,458 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1]
+2024-12-06 16:49:38,461 - INFO - Prediction: Legitimate
+2024-12-06 16:49:38,467 - INFO - 127.0.0.1 - - [06/Dec/2024 16:49:38] "POST /predict HTTP/1.1" 200 -
+2024-12-06 17:01:33,588 - WARNING - Invalid URL format: chrome://newtab/
+2024-12-06 17:01:33,590 - INFO - 127.0.0.1 - - [06/Dec/2024 17:01:33] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-12-06 17:01:36,236 - INFO - URL: https://chatgpt.com/
+2024-12-06 17:01:36,236 - INFO - Extracted Features: [1, 1, -1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-06 17:01:36,243 - INFO - Prediction: Legitimate
+2024-12-06 17:01:36,245 - INFO - 127.0.0.1 - - [06/Dec/2024 17:01:36] "POST /predict HTTP/1.1" 200 -
+2024-12-06 17:02:21,558 - INFO - URL: https://chatgpt.com/c/6753746a-5274-800d-baee-0d90567d20b0
+2024-12-06 17:02:21,558 - INFO - Extracted Features: [1, 0, -1, 1, 1, 1, 1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-06 17:02:21,563 - INFO - Prediction: Legitimate
+2024-12-06 17:02:21,564 - INFO - 127.0.0.1 - - [06/Dec/2024 17:02:21] "POST /predict HTTP/1.1" 200 -
+2024-12-06 17:02:26,153 - WARNING - Invalid URL format: chrome://extensions/
+2024-12-06 17:02:26,154 - INFO - 127.0.0.1 - - [06/Dec/2024 17:02:26] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-12-21 10:35:33,362 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-12-21 10:35:33,363 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-21 10:35:33,367 - INFO -  * Restarting with stat
+2024-12-21 10:35:41,482 - WARNING -  * Debugger is active!
+2024-12-21 10:35:41,496 - INFO -  * Debugger PIN: 477-864-197
+2024-12-21 10:36:17,819 - WARNING - Invalid URL format: chrome://newtab/
+2024-12-21 10:36:17,829 - INFO - 127.0.0.1 - - [21/Dec/2024 10:36:17] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-12-21 10:36:35,472 - INFO - URL: https://ipkobp.pl-vrf.info/index.php
+2024-12-21 10:36:35,472 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-21 10:36:35,497 - INFO - Prediction: Phishing
+2024-12-21 10:36:35,499 - INFO - 127.0.0.1 - - [21/Dec/2024 10:36:35] "POST /predict HTTP/1.1" 200 -
+2024-12-21 10:36:41,015 - INFO - URL: https://ipkobp.pl-vrf.info/index.php
+2024-12-21 10:36:41,015 - INFO - Extracted Features: [1, 1, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, 1, 1, 1]
+2024-12-21 10:36:41,015 - INFO - Prediction: Phishing
+2024-12-21 10:36:41,025 - INFO - 127.0.0.1 - - [21/Dec/2024 10:36:41] "POST /predict HTTP/1.1" 200 -
+2024-12-21 10:37:47,627 - WARNING - Invalid URL format: chrome://newtab/
+2024-12-21 10:37:47,628 - INFO - 127.0.0.1 - - [21/Dec/2024 10:37:47] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-12-27 04:58:20,703 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-12-27 04:58:20,704 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-27 04:58:20,708 - INFO -  * Restarting with stat
+2024-12-27 04:58:26,399 - WARNING -  * Debugger is active!
+2024-12-27 04:58:26,419 - INFO -  * Debugger PIN: 691-976-797
+2024-12-27 04:59:33,947 - WARNING - Invalid URL format: chrome://newtab/
+2024-12-27 04:59:33,950 - INFO - 127.0.0.1 - - [27/Dec/2024 04:59:33] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-12-27 04:59:46,761 - INFO - URL: https://login.microsoftonline.com/d6241893-512d-46dc-8d2b-be47e25f5666/saml2?SAMLRequest=fZJPT%2BMwEMXv%2Byki3500bv60VlupUKGtBGxFCwcuyLEn1FJidz02u3z7dRMQcFiu43nzm%2FfGCxR9d%2BLr4I%2FmDn4HQJ%2F87TuDfHhYkuAMtwI1ciN6QO4l369vrjlLJ%2FzkrLfSduST5HuFQATntTUk2W6W5KlupvVUtIJCxSa0EIWgTc4aKnJZCQlFW6sZSR7AYdQsSRwRhYgBtga9MD6WJqygOaOsPkzmvJzzonwkySb60Eb4QXX0%2FoQ8yzr7rE3aa%2Bks2tZb02kDqbR9pipW5LP5lJY5U7SolKQzFddooKiBlW1ZVVV2dsdIsn63cGkNhh7cHtyLlnB%2Fd%2F2B6l%2BlDQ4B02COKagwwocZJNm95XahjdLm%2BfvImrEJ%2Bc%2FDYUd3v%2FYHslqc5%2FAhCLc6MyPyDNIxFRekD270Nay8yD53L8aD30bOdrOznZavyZV1vfD%2FXyNP86GiFW2HVh4MnkDqVoOKiXSd%2FXPpQHhYksgHkq1G6NePtfrxDw%3D%3D&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=pc3GsymLGHrtksyoljJVWV5EVMFD05Ijil2I0pJbpaDjJbyuDx4Mkp21N5seDu3MTk6%2FQxzY2STVv%2FqB%2FZyc4ztYbDqolWWNYExhvU0v5As6DeklxoFxqprOYsVluGGDjl%2BWuQIT%2B5DXfn%2BRmthi%2BcUtKk%2FwRQJ95vwZdUOLybAPazhFY8JBwU4Fjjfo58Fpdmg2dPTaRKCIBoGe%2FAzez0LBEx7dvMTpoG0GgPwzu5a2%2FDJDe%2B8jRl%2FDPznIV9maF0IT6zHwmHIfICRcn2LpAvrXaqDs6eIH6ffHbs1HisiAJd4vckVPN54iUxiO3XzLZTZPIZNrLepwC78ByArJ4g%3D%3D
+2024-12-27 04:59:46,761 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-12-27 04:59:46,771 - INFO - Prediction: Legitimate
+2024-12-27 04:59:46,776 - INFO - 127.0.0.1 - - [27/Dec/2024 04:59:46] "POST /predict HTTP/1.1" 200 -
+2024-12-27 04:59:46,972 - INFO - URL: https://login.microsoftonline.com/d6241893-512d-46dc-8d2b-be47e25f5666/saml2?SAMLRequest=fZJPT%2BMwEMXv%2Byki3500bv60VlupUKGtBGxFCwcuyLEn1FJidz02u3z7dRMQcFiu43nzm%2FfGCxR9d%2BLr4I%2FmDn4HQJ%2F87TuDfHhYkuAMtwI1ciN6QO4l369vrjlLJ%2FzkrLfSduST5HuFQATntTUk2W6W5KlupvVUtIJCxSa0EIWgTc4aKnJZCQlFW6sZSR7AYdQsSRwRhYgBtga9MD6WJqygOaOsPkzmvJzzonwkySb60Eb4QXX0%2FoQ8yzr7rE3aa%2Bks2tZb02kDqbR9pipW5LP5lJY5U7SolKQzFddooKiBlW1ZVVV2dsdIsn63cGkNhh7cHtyLlnB%2Fd%2F2B6l%2BlDQ4B02COKagwwocZJNm95XahjdLm%2BfvImrEJ%2Bc%2FDYUd3v%2FYHslqc5%2FAhCLc6MyPyDNIxFRekD270Nay8yD53L8aD30bOdrOznZavyZV1vfD%2FXyNP86GiFW2HVh4MnkDqVoOKiXSd%2FXPpQHhYksgHkq1G6NePtfrxDw%3D%3D&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=pc3GsymLGHrtksyoljJVWV5EVMFD05Ijil2I0pJbpaDjJbyuDx4Mkp21N5seDu3MTk6%2FQxzY2STVv%2FqB%2FZyc4ztYbDqolWWNYExhvU0v5As6DeklxoFxqprOYsVluGGDjl%2BWuQIT%2B5DXfn%2BRmthi%2BcUtKk%2FwRQJ95vwZdUOLybAPazhFY8JBwU4Fjjfo58Fpdmg2dPTaRKCIBoGe%2FAzez0LBEx7dvMTpoG0GgPwzu5a2%2FDJDe%2B8jRl%2FDPznIV9maF0IT6zHwmHIfICRcn2LpAvrXaqDs6eIH6ffHbs1HisiAJd4vckVPN54iUxiO3XzLZTZPIZNrLepwC78ByArJ4g%3D%3D&sso_reload=true
+2024-12-27 04:59:46,972 - INFO - Extracted Features: [1, -1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-12-27 04:59:46,975 - INFO - Prediction: Legitimate
+2024-12-27 04:59:46,980 - INFO - 127.0.0.1 - - [27/Dec/2024 04:59:46] "POST /predict HTTP/1.1" 200 -
+2024-12-27 04:59:48,807 - INFO - URL: https://mycourses.unh.edu/courses/113452
+2024-12-27 04:59:48,808 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-12-27 04:59:48,812 - INFO - Prediction: Legitimate
+2024-12-27 04:59:48,819 - INFO - 127.0.0.1 - - [27/Dec/2024 04:59:48] "POST /predict HTTP/1.1" 200 -
+2024-12-27 04:59:52,564 - INFO - URL: https://mycourses.unh.edu/courses/113452
+2024-12-27 04:59:52,574 - INFO - Extracted Features: [1, 1, 1, 1, 1, 1, 0, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, 1]
+2024-12-27 04:59:52,574 - INFO - Prediction: Legitimate
+2024-12-27 04:59:52,574 - INFO - 127.0.0.1 - - [27/Dec/2024 04:59:52] "POST /predict HTTP/1.1" 200 -
